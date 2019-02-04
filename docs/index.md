@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Welcome to Docs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This is a collection of things I find/found notable. 
 
-## Commands
+The notes are free from personal opinion and judgement; each note simply summarizes the most important points as described by the source. Consequently, personal experiences and other "meta-knowledge" are considered off-topic. Hence, to really make use of the note, one must do some additional reserach.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+A summary is finished if:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- A reader can decide sensibly if the note is relevant.
+- All aspects which should be known by heart are included.
+- The formulation is both clear and minimal. 
+- Further research can be started easily.

@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Docs
+theme:
+  name: 'readthedocs'
+
+extra_css: ["css/typography.css"]
