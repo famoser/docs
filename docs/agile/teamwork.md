@@ -1,10 +1,13 @@
 # Teamwork
+
 small tools to analyze a team and improve its performance
 
 ## Team concepts
+
 there a number of concepts how teams are supposed to look like or how they can be categorized
 
 ### Pyramid of Trust (Stuart Wells)
+
 defines and describes stages of teams and how they can succeed.
 
 *Contactual* as the lowest level of trust. Team membery refer to job title, contractual arrangements and other rules of law. Communication is primary in the written form and escalated frequently. The team can function if everyone aligns to the contract.
@@ -16,15 +19,18 @@ defines and describes stages of teams and how they can succeed.
 *Un-Conditional* when total trust is established. Team members know their and the others' value and place in the team and respect it. Members will cover for other to preserve the reputation of the team. The teams success comes first.
 
 ### Team Performance Pyramid
+
 describes attributes of functional / failing teams ordered by degree of escalation.
 
 *good* teams show trust, conflict readiness, commitment, shared responsibility and finally goal-orientation.  
 *failing* teams display lack of openness, lack of harmony (gossip), ambiguity, low standards and finally dominance of status/ego.
 
 ### Group dynamics
+
 https://en.wikipedia.org/wiki/Group_dynamics
 
 ### Group ranks (Raoul Schinder)
+
 describes personas ocurring in most groups
 
 assigns roles based on interaction within the group and the environment:
@@ -35,9 +41,11 @@ assigns roles based on interaction within the group and the environment:
 - *Omega* which defies the targets set by alpha due to a different view of the environment.
 
 ## Tools
+
 Tools to improve teamwork & meetings
 
 ### Lean coffee
+
 for unstructured meetings.
 
 1. Coodinator collects topics
@@ -46,6 +54,7 @@ for unstructured meetings.
 4. Note down results
 
 ### Walt-Disney method
+
 to explore ideas.
 
 judge from different perspectives:
@@ -56,6 +65,7 @@ judge from different perspectives:
 - the *Neutral* as a neutral which enables the discussion
 
 ### 6 Thinking Hats
+
 to explore ideas.
 
 judge from directions:
