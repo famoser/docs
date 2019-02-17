@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Group_dynamics
 
 ## ranks (Raoul Schinder)
 
-describes personas ocurring in most groups
+describes personas occurring in most groups
 
 assigns roles based on interaction within the group and the environment:
 

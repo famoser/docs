@@ -6,7 +6,7 @@ how people working together interact
 
 defines and describes stages of teams and how they can succeed.
 
-*Contactual* as the lowest level of trust. Team membery refer to job title, contractual arrangements and other rules of law. Communication is primary in the written form and escalated frequently. The team can function if everyone aligns to the contract.
+*Contractual* as the lowest level of trust. Team members refer to job title, contractual arrangements and other rules of law. Communication is primary in the written form and escalated frequently. The team can function if everyone aligns to the contract.
 
 *Conditional* which allows verbal agreements. Team members use phrases like "If you do that, I will to this*. Communication is primarily written but also verbal. The team functions if everyone cooperates fairly.
 

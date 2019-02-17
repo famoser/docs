@@ -15,12 +15,12 @@ to allow self-organisation, there needs to be:
 the team is part of the environment, which should provide the team with:
 
 - Information (sufficient information about the business/sales/analytics)
-- Infrastructur (sufficient hard/software, rooms, ...)
+- Infrastructure (sufficient hard/software, rooms, ...)
 - Education (allow the team to educate self)
-- Reward (esposure & money)
+- Reward (exposure & money)
 
-the manager is in charge to optimize the environment that the required properties can be archieved, and that team work is possible. Possible actions:
+the manager is in charge to optimize the environment that the required properties can be achieved, and that team work is possible. Possible actions:
 
 - Container: change members, rooms, seating
 - Differences: change members, provocative questions, ensure all voices heard, change decision procedures
-- Exchanges: train members to solve conflicts, create cozy environments, change meeting concept/frequency, change communication channels  
+- Exchanges: train members to solve conflicts, create cosy environments, change meeting concept/frequency, change communication channels  

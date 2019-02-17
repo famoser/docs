@@ -2,6 +2,8 @@
 
 effectively take decisions
 
+You may not know yet the decision you need to take; work them out in a [meeting](meetings.md).
+
 ## Poll
 
 for small, fully understood problems
