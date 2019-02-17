@@ -55,6 +55,12 @@ for unstructured meetings.
 3. Timeboxed discussion according to priority
 4. Note down results
 
+### Kompleximeeting
+
+to prepare a decision for a concrete problem.
+
+Send out an invitation which clearly specifies the problem to be discussed (but no solutions/wishes). Interested parties accept the invitation (participation is not mandatory), and prepare. The meeting is for discussion only, decisions will be prepared (decision criteria, decision enabler), but not taken. Favour discussions over presentations.
+
 ### Additional Tools
 
 [Liberating Structures](https://www.liberatingstructures.de/) which provides meeting templates to allow people to share ideas and talk openly about else not openly talked stuff.
