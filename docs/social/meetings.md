@@ -12,6 +12,24 @@ you may not need a meeting; see [decisions](decisions.md).
 
 talk openly about otherwise sensitive stuff
 
+### TRIZ
+
+to speak out the unspeakable.
+
+let the team members do the following;
+
+1. note down what to do to archive the worst result imaginable
+2. go through list and pick activities currently going on which resemble any of the entries
+3. go through the identified activities and note down deployable countermeasures
+
+guidelines
+
+- make an example "how to build IT system no one wants to use"; solutions should be about stopping something
+- use 1-2-4-All for each step; help confused/laughing groups
+- begin with very unwanted result
+- note down activities to stop and number them
+- include people involved with stopping something by asking who else needs to be included
+
 ## Creative
 
 meetings to work out ideas
