@@ -26,6 +26,14 @@ for unimportant problems, small groups
 
 Talk until consensus is reached, potentially reaching a win-win.
 
+If you need to negotiate, use the Harward method:
+
+- separate the people and the problem
+- concentrate on interests not positions
+- develop different decision options and compare with BATNA
+- use objective decision criteria (maintain relationships, satisfy both sides)
+
+
 ## Consent
 
 for complex problems
