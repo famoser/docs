@@ -10,5 +10,9 @@ Provides guidelines how to structure huge agile projects.
 
 ## DevOps and release on demand
 
-https://www.scaledagileframework.com/
-https://www.scaledagile.com/resources/safe-whitepaper/
+...
+
+## Additional resources
+
+[webpage](https://www.scaledagileframework.com/)  
+[whitepaper](https://www.scaledagile.com/resources/safe-whitepaper/)
