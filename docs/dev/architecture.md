@@ -26,7 +26,7 @@ The downsides include that services may never be able to change their interface 
 
 separates commands (actions which modify state) and events (results of such actions) to ease scalability.
 
-Commands are created to perform changes in the database or execute other actions. The command handler, upon completion,publishes events with the result of the modification which are received by all interested parties.
+Commands are created to perform changes in the database or execute other actions. The command handler, upon completion, publishes events with the result of the modification which are received by all interested parties.
 
 This setup allows to separate applications/components which modify state (those who execute the business logic attached to a specific command) from application which only need to process state (those who display to the user or evaluate data).
 
