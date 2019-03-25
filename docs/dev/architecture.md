@@ -24,6 +24,10 @@ The downsides include that services may never be able to change their interface 
 
 ## Event sourcing
 
+> note: this probably mixes CQRS with event sourcing.  
+> the main point abount event sourcing is, that you only need to keep events (no other state). that way you can go forwards and backwards in time  
+> the main point about CQRS is the separation of write logic and read logic; which allows to optimize the architecture / technology for the specific use case
+
 separates commands (actions which modify state) and events (results of such actions) to ease scalability.
 
 Commands are created to perform changes in the database or execute other actions. The command handler, upon completion, publishes events with the result of the modification which are received by all interested parties.
