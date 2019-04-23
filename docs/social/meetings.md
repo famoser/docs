@@ -85,4 +85,5 @@ Send out an invitation which clearly specifies the problem to be discussed (but 
 
 ### Additional Tools
 
-[Liberating Structures](https://www.liberatingstructures.de/) which provides meeting templates to allow people to share ideas and talk openly about else not openly talked stuff.
+[Liberating Structures](https://www.liberatingstructures.de/) which provides meeting templates to allow people to share ideas and talk openly about else not openly talked stuff.  
+[Atlassian Team Playbook](https://www.atlassian.com/team-playbook/) which contains tools for team meetings.
