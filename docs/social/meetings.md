@@ -51,16 +51,26 @@ to explore ideas.
 
 judge from directions:
 
-- *Manager* (blue) which has the big picture, defines the subject and goals
+- *Manager* (blue) which has the big picture, defines the subject and goals and which hat is chosen netx
 - *Informer* (white) collects information and provides facts
-- *Emotional* (red) produces gut feelings without justifications
+- *Emotional* (red) produces emotional gut feelings without justifications
 - *Discernment* (black) analyses practically and realistically
-- *Optimistic response* (yellow) looks at the bright side.
+- *Optimistic response* (yellow) looks for logically based benefits
 - *Creativity* (green) provokes and thinks outside the box
 
 Using these hats, one can construct programs: A sequence of time-boxed discussions where a specific hat is chosen for each interval. This helps the group focus on aspects of the problem and avoids chaotic discussions.
 
+allow to:
+- fully collect pro/con arguments (black/yellow) before discussion (black)
+- collect insight even from people not fond of an idea
+- "turn off" negativity (black) for a while to boost creativity (green)
+- include members usually wearing one type of hat to think as other hats 
+
 One may choose a sequence best suited for the problem under discussion: For example, in the conceptual phase of a project one, may choose the following sequence: `Blue` (to define what has to be answered), `White` (to share knowledge of team members), `Green` (to collect ideas) and then `Blue` (to elect an idea to focus on next).
+
+moderate effice all members:
+- ask participants for specific color hat suggestions
+- 
 
 ### Additional Tools
 
