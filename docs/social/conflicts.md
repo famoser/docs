@@ -51,7 +51,7 @@ then ask to summarize own point of view.
 
 avoid formulations which accuse ("you"), claim objectivity, use micro-agressions ("unrealistic") or generalizations ("always", "never") and demand/prohibit ("you can not seriously think ...")
 
-formulate while clearly showing these are own points of view, interests, expectations and opinions ("I see this differently", "I assume our customers ...", "I am angry"). follow with a call to action ("lets find out", "what is your point of view").
+formulate while clearly showing these are own points of view, interests, expectations and opinions ("I see this differently", "I assume our customers ...", "I am angry"). Follow with a call to action ("lets find out", "what is your point of view").
 
 ## constructive feedback
 

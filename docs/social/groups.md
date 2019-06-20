@@ -16,3 +16,7 @@ assigns roles based on interaction within the group and the environment:
 - *Beta* as the expects supporting alpha to part of the power process.  
 - *Gamma* as a group member which identify with alpha without own power demands.  
 - *Omega* which defies the targets set by alpha due to a different view of the environment.
+
+## get together
+
+http://www.liberatingstructures.com/ls-menu/

@@ -35,4 +35,4 @@ social:
 - make multiple teams when doing group work
 - share experiences from past projects
 - discussion in groups for open answers
-. let participants explain technicalities
+- let participants explain technicalities
