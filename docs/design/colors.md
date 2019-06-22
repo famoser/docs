@@ -11,5 +11,10 @@ permute hex values to create a nice-looking scheme without the need of paletton 
 
 ## Resources
 
-[color palettes](https://colorhunt.co/)  
-[color scheme designer](http://paletton.com/)
+https://colorhunt.co/ for premade color palettes  
+https://www.webdesignrankings.com/resources/lolcolors/ for premade color palettes  
+https://color.adobe.com/create to create a color palette  
+http://paletton.com/ to create a color palette  
+https://mycolor.space/ to create a color palette  
+https://coolors.co/app to create a color palette  
+https://webgradients.com/ for premade gradients  

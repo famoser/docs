@@ -69,7 +69,7 @@ services:
 
 secret:
     mongo_passwort:
-        file: /opt/docker-secrets/secret.txt # defines the mongo_password secret; secret is placed in docker under /var/run/.... Hence only need to place secert on build server
+        file: /opt/docker-secrets/secret.txt # defines the mongo_password secret; secret is placed in docker under /var/run/.... Hence only need to place secret on build server
 ```
 
 ```bash
