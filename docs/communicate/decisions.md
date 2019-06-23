@@ -33,7 +33,6 @@ If you need to negotiate, use the Harward method:
 - develop different decision options and compare with BATNA
 - use objective decision criteria (maintain relationships, satisfy both sides)
 
-
 ## Consent
 
 for complex problems

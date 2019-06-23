@@ -7,6 +7,7 @@ tools to be creative
 concerned with possibilities, what might be; tries to be different to normal, duductionable conclusions by deduction
 
 ### Techniques
+
 Use a creative pause; meaning simply stop for some time trying to come up with something new.
 
 Change the focus to a different aspect of the problem. 
@@ -27,10 +28,9 @@ You may encounter concepts that are purpose based (like umbrella -> protection f
 Then improve on these concepts, potentially strenghten them, implement or combine them differently.
 
 Provocate with proposing unusual/absurd solutions. Work out these solutions by chaning the focus to an unusual perspective.
-P151
 
+Lateral thinking book, at P151
 
-$
 - PMI: Scan plus points, then minux points, then interesting points
 
 where to apply in EnterpriseTM:
@@ -41,5 +41,6 @@ where to apply in EnterpriseTM:
 - get employees more interested (hence motivated) into their work
 
 ## Resources
-lateral thinking (read Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas)
+
+Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas for a book about this
 
