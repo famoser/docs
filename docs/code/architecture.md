@@ -58,12 +58,17 @@ To battle the downsides, loose layering provides an alternative (at the cost tha
 
 ## Hexgonal architecture (adapter & ports)
 
-structure the application around use cases which fully define how they interacts with the environement (both in- and output).
+structure the application around use cases which fully define how they interacts with the environment (both in- and output).
 
-The business logic sits inside the "hexgon". It defines interfaces to interact with the outside. These touch points with the outside are composed of ports (an interface) and adapters (an implementation of that interface). As the inside defines the interfaces, it does not have any dependecy to the outside.
+The business logic sits inside the "hexagon". It defines interfaces to interact with the outside. These touch points with the outside are composed of ports (an interface) and adapters (an implementation of that interface). As the inside defines the interfaces, it does not have any dependency to the outside.
 
 Advantages of that approach include that a use case can be separated cleanly from others, and makes structuring the application by use case easy. It is easily testable as dependencies from a single use cases can be mocked simply. To replace dependencies from a single use cases is easy, hence even larger technology migrations can be done incrementally without touching the business logic.
 
-The downsides include that for each hexgon, many potentially similar entites (and hence mappings) need to be created. Also, many very specific interfaces need to be implemented.
+The downsides include that for each hexagon, many potentially similar entities (and hence mappings) need to be created. Also, many very specific interfaces need to be implemented.
 
-To battle the downsides, you may include multiple similar use cases in the same hexgon. If abstracted properly pure technicallities may also be shared by multiple hexagon.
+To battle the downsides, you may include multiple similar use cases in the same hexagon. If abstracted properly pure technicalities may also be shared by multiple hexagon.
+
+
+## Resources
+
+Design Patterns: Elements of Reusable Object-Oriented Software by Gang of Four
