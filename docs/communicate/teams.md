@@ -88,3 +88,7 @@ self-organized teams are characterized by:
 - emergent structures
 - positive/negative feedback
 - resilience
+
+## Cross cultural teams
+
+https://www.hofstede-insights.com/models/national-culture/ to assess cultural differences

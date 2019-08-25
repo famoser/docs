@@ -1,5 +1,8 @@
 # Clean code
 
+The single most important guideline is each part of the software should have a single, minimal purpose.
+This leads to loops performing only a single thing, documents code by the name its method is given, prevents the need for global state and leads to a single source of truth.
+
 ## Basic architecture
 
 - Separate I/O classes (designed for persistance) from functional classes (designed for business) [13]
@@ -11,28 +14,73 @@
 
 - Continuously refactor when implementing new functionality [11, 18, c]
 - Be humble (dont fight tools/framework/business/team) [16, 17, 18]
+- Use the best tools available (IDE) and execute its optimization suggestions (remove unused, simplify statements)
+- Reuse libraries, patterns, workflows, ... []
+- Do not assume behaviour that is not documented in the interface [C]
+
+implications include consistent development speed & integration of all good ideas.
 
 ## Global
 
-- single minimal purpose [2, 3, 7, 9, 14]
-- same level of abstraction [2, 3, 4, 7, 8, 12]
+- single minimal purpose (fewer than 7 local variables, properties, methods, ...) [2, 3, 7, 9, 14]
+- use shortest name possible (for example do not repeat part of the namespace in class names) [A]
+- use same level of abstraction together [2, 3, 4, 7, 8, 12]
 - higher level of abstraction uses next lower (never the other way) [8, 19, b]
+- the level of abstraction hides details of implementation [A, B]
+- separate areas likely to change [C]
+
+implications include maintainability and reusability.
 
 ## Classes
 
 - inheritance as means of specialization (use patterns for code-reuse) [6, a]
 - inject implementation specific dependencies (like Logger, Storage) using the constructor. [1]
-- no state unless Naming / Pattern explicitly requires (`CacheService` or similar). [1]
+- stateless unless Naming / Pattern explicitly requires (`CacheService` or similar). [1]
+
+implications include high fan-in (many classes use this class) & low fan-out (the class uses itself few others).
 
 ## Methods
 
 - use only injected dependencies of class (no global calls) & passed data (use `Payload` class if many arguments needed). [1, 12]
+- if processing can not continue, throw an exception (wrap exceptions if necessary to not violate information hiding) [e]
+- make parameters read-only and clearly typed (for example add the unit to variable name if not obvious)
+- name like verb - object [E]
+- group related statements together
+- minimize local variable lifetime (initialization & all usages)
+
+### loops
+
+- do loop housekeeping at the end or the start of the loop
+- prevent the need for break by factoring out the loop to a method
+- prevent the need for continue by filtering the elements beforehand
+
+### boolean
+
+- test positives first
+- test normal case first
+- parentise boolean expressions
+- explicitly compare falsy values
+- compare in ranges; MIN < i && i < MAX
+- avoid side effects while evaluating
+
+implications include testability & predictable errors.
 
 ## Properties
 
-- expose only properties needed for transfer, not for decisions (instead include decisions directly in class) [13, 14]
+- may publicly expose if needed for transfer but not for decision (instead include these directly in class) [13, 14]
+- name according to business domain and push modifies (like Sum, Total, ..) at the end of the name if still sensible (for example `first` must be a prefix) [E]
+- omit type prefix/suffix, instead use a variable name which clearly indicates the form of the data (like `processingCompleted` which implies only `true`/`false` as value range) [E]
 
-## Literature 
+implications include single source of truth
+
+## Literature
+
+Included advice
+- [A] use abstraction to make a problem simpler
+- [B] respect literal & semantic encapsulation (do not expose more than absolutely necessary, do not infer behaviour by looking at implementation)
+- [C] separate areas likely to change (ever-changing business rules, unstable environment)
+- [D] use patterns to quickly communicate design ideas
+- [E] adopt consistency conventions
 
 Included principles:
 - [1] Explicit Dependencies Principle
@@ -60,5 +108,6 @@ Own principles:
 - [b] stateless
 - [c] do not write boilerplate
 - [d] separate I/O from business processing
+- [e] do not hide errors
 
 https://deviq.com for principles & patterns

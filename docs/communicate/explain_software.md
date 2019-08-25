@@ -49,3 +49,15 @@ scale utilities:
 - deployment procedure
 - test planning
 - different QA team
+
+### requirements
+
+requirements as a whole should produce a ready-to-use product (use cases, inputs, outputs), not conflict with each other and in a language/granularity that is consistent and understood by users / third parties.
+they may also contain non-functional requirements as response time, error recovery, maintainability.
+each requirement should be relevant to the problem, technically feasible and testable.
+
+explicit requirements can be approved by users (rather than chosen by the programmer), avoid arguments and can detect conceptual issues early.
+but they may also prevent taking a shorter path to the target detected while implementing (for example a different export format which is easier to implement).
+
+requirements can change anytime, but the changing business value, cost and schedule have to be considered wisely.
+if requirements change often, introduce formal procedure to make process transparent and scalable.

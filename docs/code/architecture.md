@@ -1,8 +1,34 @@
 # Architecture
 
-How to structure a program to be developed, used and maintained by many?
+the architecture should serve its users, and hence must be adapted first to the skills and needs of the programmers actually working with it.
 
-## Domain driven design
+## documentation
+
+document at various granularities, including the justifications behind design decisions.
+document how business rules or non-functional requirements (like performance) impacted the argument and why.
+for big applications & home-made architectures, you may want to document additional parts as described by Code Complete (Steve Connel), p45.
+
+define error processing:
+- corrective (try to continue) / detective (fail)
+- active (plausibility checks) / passive (fail if no way to continue)
+- propagation (fail at first invalid input or after checking all)
+- consistent error messages
+
+be aware of the stability of the environment and take precautions (experimental technologies need a time buffer to account for bugs in tooling).
+
+define conventions such as code style, tool chain, approach to testing (TDD or similar) and definition of done.
+
+## high-level architectures
+
+some high-level, not mutually exclusive, architecture approaches.
+
+### Subsystems
+
+abstracts messy details from common types of subproblems away from the other modules.
+
+common subsystems include business rules (laws, regulation, prices), UI (GUI / command line), I/O access (database), system dependencies (syscalls, exec calls)
+
+### Domain driven design
 
 eases the development by introducing knowledge about the business process in the application naming / class concept, down to the database.
 
@@ -12,7 +38,7 @@ A developer now only needs to understand the domain he is currently working in, 
 
 The downsides include the maintenance of the transformation logic.
 
-## Microservice architecture
+### Microservice architecture
 
 decouples parts of the application in separate services connected via a REST interface.
 
@@ -22,7 +48,7 @@ This setup eases updates, as single services can be replaced one after another. 
 
 The downsides include that services may never be able to change their interface once specified, as they do not know which services use it.
 
-## Event sourcing
+### Event sourcing
 
 > note: this probably mixes CQRS with event sourcing.  
 > the main point abount event sourcing is, that you only need to keep events (no other state). that way you can go forwards and backwards in time  
@@ -42,7 +68,7 @@ The downsides include similar problems than with most distributed systems; reord
 
 To battle the downsides, carefully design how the events/commands transfer is setup, for example using a message queue which provides the required properties. Avoid complex events/commands and exposing domain-private information to avoid having to propagate changes inside the domain to others.
 
-## Onion architecture
+### Onion architecture
 
 use layers to separate different kind of logic (presentation, business, domain).
 
@@ -56,7 +82,7 @@ The donwsides include that mapping efforts may increase substantially; the same 
 
 To battle the downsides, loose layering provides an alternative (at the cost that it is easier for an outer layer to access/modify something from an inner layer it is not supposed to). 
 
-## Hexgonal architecture (adapter & ports)
+### Hexgonal architecture (adapter & ports)
 
 structure the application around use cases which fully define how they interacts with the environment (both in- and output).
 
@@ -67,7 +93,6 @@ Advantages of that approach include that a use case can be separated cleanly fro
 The downsides include that for each hexagon, many potentially similar entities (and hence mappings) need to be created. Also, many very specific interfaces need to be implemented.
 
 To battle the downsides, you may include multiple similar use cases in the same hexagon. If abstracted properly pure technicalities may also be shared by multiple hexagon.
-
 
 ## Resources
 
