@@ -4,11 +4,14 @@
 
 - skyscraper needs different approach than simple shed
 - to rebuild a house with a different architecture is expensive
-- to move a wall to another place is expense because of labour, not materials
+- to move a wall to another place is expensive due to the labour it requires, not due to the materials
 - prebuilt components like dishwashers are bought or expensively reinvented
 - planing and building can be done in stages (like foundation and interior details)
 - changes to a load bearing wall are much more expensive than to a simple room divider
 - if a skyscraper is build, some precautions / safety margins have to be made to reduce risk
+- there are many different ways to build a house so it needs to be clearly defined how its supposed to look like
+- quality is nearly invisible, but saves much money in the long run
+- continuous maintenance avoids having to reconstruct the whole house after 10 years
 
 ## software development process
 
@@ -50,7 +53,7 @@ scale utilities:
 - test planning
 - different QA team
 
-### requirements
+### requirements engineering
 
 requirements as a whole should produce a ready-to-use product (use cases, inputs, outputs), not conflict with each other and in a language/granularity that is consistent and understood by users / third parties.
 they may also contain non-functional requirements as response time, error recovery, maintainability.
@@ -61,3 +64,57 @@ but they may also prevent taking a shorter path to the target detected while imp
 
 requirements can change anytime, but the changing business value, cost and schedule have to be considered wisely.
 if requirements change often, introduce formal procedure to make process transparent and scalable.
+
+### quality assurance
+
+formally define the priorization of the quality objectives, and use guidelines/best practices, informal/formal reviews & external audits to implement it. while quality assurance needs more time upfront, it does not increase the total cost because it leads to software with fewer defects (less time spent on support).
+
+external quality metrics (user perceived) are correctness, integrity (access control & data sanity), usability, reliability (few failures), efficiency, adaptability (fit for different purposes), accuracy (fit for purpose) & robustness (functioning under invalid input).
+
+internal quality metrics (developer perceived) are understandability (high-level structure), maintainability, testability, readability (statement level), reuseability, flexibility & portability.
+
+use a combination of prototyping, design/code reviews, unit/integration/e2e testing & regression/system testing to archive acceptable fault levels. 
+
+use pair programming, formal reviews (discuss code using clear roles including reviewer, scribe, moderator, author), walk through (present code/concept by the author) and code reviews to educate authors & propagate knowledge and experience.
+
+### testing
+
+for unit testing, create test cases according to statement, branch, definition/use pair, loop (0, 1, any) or boundary (min, any, max) coverage (white-box approach). include test cases for dirty (errornous) cases by using too much, too few or wrongly typed data.
+
+for integration testing, focus on the interaction of the components but avoid to retest the guarantees established by the unit tests (black-box approach).
+
+for e2e testing, focus on complete user interactions representing sensible use cases but avoid to increase coupling.
+
+document for errors how much time they needed to be found, where they are located and what the root cause was (off-by-one, nullRef). bugs tends to be concentrated on specific parts of the software; find those and minimize the impact with refactorings & common-cases-checklists. 
+
+### developing
+
+relax; only publish solid, tested code under any circumstance, never lower the bar of minimal quality, especially not under error-prine, high-pressure situations: short-term benefits are not worth the risk and cost of the long-term.
+
+if tests are needed, write them as soon as the public interface is ready.
+
+for non-obvious bugs, always advance using hypothesis (not blindly bruteforcing), list things to try and always work on most promising one, check code that has changed recently/often, discuss with someone else or simply take a break.
+
+for low-level performance improvements, order case statements by frequency, create lookup array instead of if/else constructs for multiple deciding factors, simplify loops (take if/else outside), combine loops that iterate over same data, unroll loops (take multiple steps in same iteration), use faster arithmetic, remove method calls, choose different data types/structures, reduce array dimensions, reduce array/object accesses, use caching & precompute expensive calculations.
+
+document surprises (like performance improvements, workarounds) and what can not be expressed by code (like special math operations), focusing on the why not the how.
+
+### scale up
+
+scaling is not linear; is much less efficient. people write less code with more error in more time. construction activity decreases and instead design, integration, architecture & testing need more effort.
+
+products need to be polished more, systems need to have more careful interfaces. as more people work on the same product, more potential connections need to be made & more potential conflicts need to be resolved. the need for more formal documentation increases.
+
+encourage good coding by letting a though leader set standards, best practices or guidelines- ensure at least two people work on the same code, review all changes and ensure collective ownership of code & responsibility is take seriously.
+
+### varia
+
+estimate at low level (few hours) and take the time to do it properly. multiply with factor depending on unknowns, but minimally x1.2.
+
+effectiveness changes due to setup (documentation, tools), people (skills, experience, continuity), product (complexity, speed & storage constrains, size of data) and project management (customer relationship, quality/clarity of requirements, risk management).
+
+orders of magnitude are between a top programmer and an underperforming one (1:10 and more). bad teams need 3.5 times more time than good ones, and attract even more bad programmers (and vice-versa). a quiet, private, interruption-free and big buro doubles productivity.
+
+## Resources
+
+for statistics for most of the topics here, consult code complete (Steve Mc. Connel), besides the good statistics, the book is unfortunately outdated, repetitive and noisy (contains a lot of advice targeted at new programmers which did not take computer science courses).  

@@ -1,7 +1,11 @@
 # Clean code
 
 The single most important guideline is each part of the software should have a single, minimal purpose.
-This leads to loops performing only a single thing, documents code by the name its method is given, prevents the need for global state and leads to a single source of truth.
+This documents code by the name its method is given, prevents the need for global state, leads to a single source of truth, ensures each loop only does one thing and only a single expression per line is used.
+
+you are doing it wrong if statements are complicated, methods long & nested, names complicated and ambiguous or changes need to be made at multiple locations for a single requirement change. you are doing it wrong if you would be doing it different if you could rewrite it from scratch.
+
+you are doing it right if each line of code is at its single perfect location.
 
 ## Basic architecture
 
@@ -15,21 +19,21 @@ This leads to loops performing only a single thing, documents code by the name i
 - Continuously refactor when implementing new functionality [11, 18, c]
 - Be humble (dont fight tools/framework/business/team) [16, 17, 18]
 - Use the best tools available (IDE) and execute its optimization suggestions (remove unused, simplify statements)
-- Reuse libraries, patterns, workflows, ... []
-- Do not assume behaviour that is not documented in the interface [C]
+- Reuse libraries, patterns, workflows, ...
+- Do not assume behavior that is not documented in the interface [C]
 
-implications include consistent development speed & integration of all good ideas.
+improves consistent development speed & integration of all good ideas.
 
 ## Global
 
 - single minimal purpose (fewer than 7 local variables, properties, methods, ...) [2, 3, 7, 9, 14]
-- use shortest name possible (for example do not repeat part of the namespace in class names) [A]
 - use same level of abstraction together [2, 3, 4, 7, 8, 12]
-- higher level of abstraction uses next lower (never the other way) [8, 19, b]
+- use shortest name possible (for example do not repeat part of the namespace in class names) [A]
+- higher level of abstraction uses only next lower [8, 19, b]
 - the level of abstraction hides details of implementation [A, B]
 - separate areas likely to change [C]
 
-implications include maintainability and reusability.
+improves maintainability and reusability.
 
 ## Classes
 
@@ -37,7 +41,7 @@ implications include maintainability and reusability.
 - inject implementation specific dependencies (like Logger, Storage) using the constructor. [1]
 - stateless unless Naming / Pattern explicitly requires (`CacheService` or similar). [1]
 
-implications include high fan-in (many classes use this class) & low fan-out (the class uses itself few others).
+improves high fan-in (many classes use this class) & low fan-out (the class uses itself few others).
 
 ## Methods
 
@@ -45,8 +49,9 @@ implications include high fan-in (many classes use this class) & low fan-out (th
 - if processing can not continue, throw an exception (wrap exceptions if necessary to not violate information hiding) [e]
 - make parameters read-only and clearly typed (for example add the unit to variable name if not obvious)
 - name like verb - object [E]
-- group related statements together
-- minimize local variable lifetime (initialization & all usages)
+- minimize local variable lifetime (initialization & all usages) [f]
+- single expression per line
+- call only methods which affect the outcome (handle "early-out"s in the caller)
 
 ### loops
 
@@ -54,7 +59,7 @@ implications include high fan-in (many classes use this class) & low fan-out (th
 - prevent the need for break by factoring out the loop to a method
 - prevent the need for continue by filtering the elements beforehand
 
-### boolean
+### booleans
 
 - test positives first
 - test normal case first
@@ -63,7 +68,7 @@ implications include high fan-in (many classes use this class) & low fan-out (th
 - compare in ranges; MIN < i && i < MAX
 - avoid side effects while evaluating
 
-implications include testability & predictable errors.
+improves testability & predictable errors.
 
 ## Properties
 
@@ -71,7 +76,7 @@ implications include testability & predictable errors.
 - name according to business domain and push modifies (like Sum, Total, ..) at the end of the name if still sensible (for example `first` must be a prefix) [E]
 - omit type prefix/suffix, instead use a variable name which clearly indicates the form of the data (like `processingCompleted` which implies only `true`/`false` as value range) [E]
 
-implications include single source of truth
+improves single source of truth
 
 ## Literature
 
@@ -109,5 +114,6 @@ Own principles:
 - [c] do not write boilerplate
 - [d] separate I/O from business processing
 - [e] do not hide errors
+- [f] group related statements together
 
 https://deviq.com for principles & patterns
