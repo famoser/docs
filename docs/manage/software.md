@@ -1,7 +1,8 @@
-# Explain software
+# Develop software
 
-## Construction analogy
+## software development process
 
+use construction site analogy
 - skyscraper needs different approach than simple shed
 - to rebuild a house with a different architecture is expensive
 - to move a wall to another place is expensive due to the labour it requires, not due to the materials
@@ -13,18 +14,29 @@
 - quality is nearly invisible, but saves much money in the long run
 - continuous maintenance avoids having to reconstruct the whole house after 10 years
 
-## software development process
-
-explain using logic (big project = needs planning)
-analogy (construction site) or
-data (10 times less expensive if failures detected early; studies by IBM & HP)
-
 to start a software project you need a clear vision about what problem will be solved.
 this helps the team to align, enables "common sense" and generates a multitude of solution.
+
+### work effective
 
 work in iteration that are as small as possible while still providing some business benefit.
 the reduced complexity speeds up exponentially and the focus can shift much quicker.
 reduce iteration size with high risk, complex applications, inexperienced team and changing circumstances 
+
+scaling is not linear; it is much less efficient. people write less code with more error in more time. construction activity decreases and instead design, integration, architecture & testing need more effort.
+
+encourage good coding by letting a though leader set standards, best practices or guidelines- ensure at least two people work on the same code, review all changes and ensure collective ownership of code & responsibility is take seriously.
+
+products need to be polished more than simple tools, systems need to have more careful interfaces than products. as more people work on the same, more potential connections need to be made & more potential conflicts need to be resolved. the need for more formal documentation increases.
+
+effectiveness changes due to setup (documentation, tools), people (skills, experience, continuity), product (complexity, speed & storage constrains, size of data), project management (early failure detection effectiveness, customer relationship, quality/clarity of requirements, risk management)
+
+orders of magnitude are between a top programmer and an underperforming one (1:10 and more). bad teams need 3.5 times more time than good ones, and attract even more bad programmers (and vice-versa). a quiet, private, interruption-free and big office doubles productivity.
+
+scaling tips
+- use trunk based development to avoid merging hell  
+- limit WIP to detect & resolve bottlenecks  
+- use central test data management for easier e2e test setup
 
 ### iteration
 
@@ -65,27 +77,13 @@ but they may also prevent taking a shorter path to the target detected while imp
 requirements can change anytime, but the changing business value, cost and schedule have to be considered wisely.
 if requirements change often, introduce formal procedure to make process transparent and scalable.
 
-### quality assurance
+### estimation
 
-formally define the priorization of the quality objectives, and use guidelines/best practices, informal/formal reviews & external audits to implement it. while quality assurance needs more time upfront, it does not increase the total cost because it leads to software with fewer defects (less time spent on support).
+estimate duration at low level (few hours) and take the time to do it properly. multiply with factor depending on unknowns, but minimally x1.2. use appropriate unit to communicate security of whole estimation.
 
-external quality metrics (user perceived) are correctness, integrity (access control & data sanity), usability, reliability (few failures), efficiency, adaptability (fit for different purposes), accuracy (fit for purpose) & robustness (functioning under invalid input).
+priorize according to (sum of business value + risk reduction + opportunity enabler factor) / duration
 
-internal quality metrics (developer perceived) are understandability (high-level structure), maintainability, testability, readability (statement level), reuseability, flexibility & portability.
-
-use a combination of prototyping, design/code reviews, unit/integration/e2e testing & regression/system testing to archive acceptable fault levels. 
-
-use pair programming, formal reviews (discuss code using clear roles including reviewer, scribe, moderator, author), walk through (present code/concept by the author) and code reviews to educate authors & propagate knowledge and experience.
-
-### testing
-
-for unit testing, create test cases according to statement, branch, definition/use pair, loop (0, 1, any) or boundary (min, any, max) coverage (white-box approach). include test cases for dirty (errornous) cases by using too much, too few or wrongly typed data.
-
-for integration testing, focus on the interaction of the components but avoid to retest the guarantees established by the unit tests (black-box approach).
-
-for e2e testing, focus on complete user interactions representing sensible use cases but avoid to increase coupling.
-
-document for errors how much time they needed to be found, where they are located and what the root cause was (off-by-one, nullRef). bugs tends to be concentrated on specific parts of the software; find those and minimize the impact with refactorings & common-cases-checklists. 
+for easier estimates, ask someone who has done it before, work in iterations or use relative estimation between all available items.
 
 ### developing
 
@@ -99,22 +97,30 @@ for low-level performance improvements, order case statements by frequency, crea
 
 document surprises (like performance improvements, workarounds) and what can not be expressed by code (like special math operations), focusing on the why not the how.
 
-### scale up
+### quality assurance
 
-scaling is not linear; is much less efficient. people write less code with more error in more time. construction activity decreases and instead design, integration, architecture & testing need more effort.
+formally define the priorization of the quality objectives, and use guidelines/best practices, informal/formal reviews & external audits to implement it. while quality assurance needs more time upfront, it does not increase the total cost because it leads to software with fewer defects (less time spent on support).
 
-products need to be polished more, systems need to have more careful interfaces. as more people work on the same product, more potential connections need to be made & more potential conflicts need to be resolved. the need for more formal documentation increases.
+external quality metrics (user perceived) are correctness, integrity (access control & data sanity), usability, reliability (few failures), efficiency, adaptability (fit for different purposes), accuracy (fit for purpose) & robustness (functioning under invalid input).
 
-encourage good coding by letting a though leader set standards, best practices or guidelines- ensure at least two people work on the same code, review all changes and ensure collective ownership of code & responsibility is take seriously.
+internal quality metrics (developer perceived) are understandability (high-level structure), maintainability, testability, readability (statement level), reusability, flexibility & portability.
 
-### varia
+use a combination of prototyping, design/code reviews, unit/integration/e2e testing & regression/system testing to archive acceptable fault levels. 
 
-estimate at low level (few hours) and take the time to do it properly. multiply with factor depending on unknowns, but minimally x1.2.
+use pair programming, formal reviews (discuss code using clear roles including reviewer, scribe, moderator, author), walk through (present code/concept by the author) and code reviews to educate authors & propagate knowledge and experience.
 
-effectiveness changes due to setup (documentation, tools), people (skills, experience, continuity), product (complexity, speed & storage constrains, size of data) and project management (customer relationship, quality/clarity of requirements, risk management).
+https://github.com/google/eng-practices for help how to do a PR review
 
-orders of magnitude are between a top programmer and an underperforming one (1:10 and more). bad teams need 3.5 times more time than good ones, and attract even more bad programmers (and vice-versa). a quiet, private, interruption-free and big buro doubles productivity.
+### testing
 
-## Resources
+for unit testing, create test cases according to statement, branch, definition/use pair, loop (0, 1, any) or boundary (min, any, max) coverage (white-box approach). include test cases for dirty (errornous) cases by using too much, too few or wrongly typed data.
 
-for statistics for most of the topics here, consult code complete (Steve Mc. Connel), besides the good statistics, the book is unfortunately outdated, repetitive and noisy (contains a lot of advice targeted at new programmers which did not take computer science courses).  
+for integration testing, focus on the interaction of the components but avoid to retest the guarantees established by the unit tests (black-box approach).
+
+for e2e testing, focus on complete user interactions representing sensible use cases but avoid to increase coupling.
+
+document for errors how much time they needed to be found, where they are located and what the root cause was (off-by-one, nullRef). bugs tends to be concentrated on specific parts of the software; find those and minimize the impact with refactorings & common-cases-checklists. 
+
+## Sources
+
+for statistics for most of the topics here, consult code complete (Steve Mc. Connel), besides the good statistics, the book is unfortunately outdated, repetitive and noisy (contains a lot of advice targeted at new programmers without a computer science degree).  

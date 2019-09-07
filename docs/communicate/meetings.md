@@ -68,14 +68,6 @@ allow to:
 
 One may choose a sequence best suited for the problem under discussion: For example, in the conceptual phase of a project one, may choose the following sequence: `Blue` (to define what has to be answered), `White` (to share knowledge of team members), `Green` (to collect ideas) and then `Blue` (to elect an idea to focus on next).
 
-moderate effice all members:
-- ask participants for specific color hat suggestions
-- 
-
-### Additional Tools
-
-[Lateral Thinking](https://en.wikipedia.org/wiki/Lateral_thinking) which provides alternative ways to produce ideas
-
 ## Discussions
 
 ### Lean coffee

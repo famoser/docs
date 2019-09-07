@@ -20,18 +20,18 @@ Once you have found some answers, you can create a creative challenge by either 
 Look for alternatives, even when there is none needed at the moment. 
 Create alternatives by fixing purpose, resemblance (lookalikes), group (type of thing) or concept ("reward for work"). 
 
-Takle a bigger concept than the one in question at the moment; by asking "how does it help" (homeoffice -> reduce traffic). 
-Go into the other direction by asking "how can we implement this" (refude traffic -> different work schedules).
+Tackle a bigger concept than the one in question at the moment; by asking "how does it help" (homeoffice -> reduce traffic). 
+Go into the other direction by asking "how can we implement this" (reduce traffic -> different work schedules).
 
-Abstract a concret process/product into its concepts (like fast food -> cheap, standardized, fast). 
+Abstract a concrete process/product into its concepts (like fast food -> cheap, standardized, fast).  
 You may encounter concepts that are purpose based (like umbrella -> protection from the rain), mechanism based (like umbrella -> roof) and value based (like umbrella -> convenient).
-Then improve on these concepts, potentially strenghten them, implement or combine them differently.
+Then improve on these concepts, potentially strengthen them, implement or combine them differently.
 
-Provocate with proposing unusual/absurd solutions. Work out these solutions by chaning the focus to an unusual perspective.
+Provoke with proposing unusual/absurd solutions to enable unusual perspectives.
 
 Lateral thinking book, at P151
 
-- PMI: Scan plus points, then minux points, then interesting points
+- PMI: Scan plus points, then minus points, then interesting points
 
 where to apply in EnterpriseTM:
 - get more improvement propositions at every level

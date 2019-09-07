@@ -19,3 +19,7 @@ Submit your page to [hstspreload](https://hstspreload.org/).
 ## Server
 
 Test the [SSL settings](https://www.ssllabs.com/ssltest/analyze.htm).  
+
+## Resources
+
+https://randomkeygen.com/ for strong password generation  

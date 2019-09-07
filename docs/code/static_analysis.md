@@ -21,3 +21,8 @@ The definition of cognitive complexity is no longer a mathematical model: It tri
 To implement this rules the model uses four different types of increments and detailed specification for common structures (for example, multiple Boolean conditions combined with the same operator increase the score only by one). The increments are defined base on human judgement of the understandability of the structures-
 
 Using this notion, complex & nested algorithms are assigned a much higher number than easy `switch-case` structures. The number allows to compare entirely different methods, and promises to allow sensible comparisons on class / application level.
+
+## Services
+
+https://codeclimate.com/ for enterprise coverage  
+https://app.codacy.com/ for enterprise coverage  
