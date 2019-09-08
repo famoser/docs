@@ -1,9 +1,9 @@
 # Clean code
 
-The single most important guideline is each part of the software should have a single, minimal purpose.
+The most important guideline is that each part of the software should have a single, minimal purpose.
 This documents code by the name its method is given, prevents the need for global state, leads to a single source of truth, ensures each loop only does one thing and only a single expression per line is used.
 
-you are doing it wrong if statements are complicated, methods long & nested, names complicated and ambiguous or changes need to be made at multiple locations for a single requirement change. you are doing it wrong if you would be doing it different if you could rewrite it from scratch.
+you are doing it wrong if statements are complicated, methods long & nested, names complicated and ambiguous or changes need to be made at multiple locations for a single requirement change. you are doing it wrong if you would be doing it differently if you could rewrite it from scratch.
 
 you are doing it right if each line of code is at its single perfect location.
 
@@ -13,6 +13,7 @@ you are doing it right if each line of code is at its single perfect location.
 - Use stateful respositories to provide functional classes to the outside and process I/O classes in the inside [15, d]
 - Use services to encapsulate functionality, stateless if business, possibly stateful if I/O [d]
 - Use DI Container [1, 8, 17, c] or a factory to inject dependencies
+- Respect the architecture of the framework / environment and add additional structures as described in [architecture](architecture.md)
 
 ## Workflow
 
@@ -21,6 +22,7 @@ you are doing it right if each line of code is at its single perfect location.
 - Use the best tools available (IDE) and execute its optimization suggestions (remove unused, simplify statements)
 - Reuse libraries, patterns, workflows, ...
 - Do not assume behavior that is not documented in the interface [C]
+- Ensure the highest levels are the cleanest [g]
 
 improves consistent development speed & integration of all good ideas.
 
@@ -61,8 +63,7 @@ improves high fan-in (many classes use this class) & low fan-out (the class uses
 
 ### booleans
 
-- test positives first
-- test normal case first
+- test positive, expected cases first
 - parentise boolean expressions
 - explicitly compare falsy values
 - compare in ranges; MIN < i && i < MAX
@@ -72,22 +73,26 @@ improves testability & predictable errors.
 
 ## Properties
 
-- may publicly expose if needed for transfer but not for decision (instead include these directly in class) [13, 14]
-- name according to business domain and push modifies (like Sum, Total, ..) at the end of the name if still sensible (for example `first` must be a prefix) [E]
+- only publicly expose if needed for transfer 
+- include decision in class (expose `isValid()` instead of exposing the properties needed to check validity) [13, 14]
+- name according to business domain
+- push modifies (like Sum, Total, ..) at the end of the name (except for example `first` which must be a prefix to make sense) [E]
 - omit type prefix/suffix, instead use a variable name which clearly indicates the form of the data (like `processingCompleted` which implies only `true`/`false` as value range) [E]
 
 improves single source of truth
 
 ## Literature
 
-Included advice
+Included advice:
+
 - [A] use abstraction to make a problem simpler
-- [B] respect literal & semantic encapsulation (do not expose more than absolutely necessary, do not infer behaviour by looking at implementation)
+- [B] respect literal & semantic encapsulation (do not expose more than necessary, do not infer behavior by looking at implementation)
 - [C] separate areas likely to change (ever-changing business rules, unstable environment)
 - [D] use patterns to quickly communicate design ideas
 - [E] adopt consistency conventions
 
 Included principles:
+
 - [1] Explicit Dependencies Principle
 - [2] Separation of Concerns
 - [3] Once and Only Once
@@ -109,11 +114,13 @@ Included principles:
 - [19] Stable dependencies
 
 Own principles:
+
 - [a] no manual type checks
-- [b] stateless
+- [b] prefer stateless
 - [c] do not write boilerplate
 - [d] separate I/O from business processing
 - [e] do not hide errors
 - [f] group related statements together
+- [g] higher levels should be of higher quality
 
 https://deviq.com for principles & patterns

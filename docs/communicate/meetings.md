@@ -61,6 +61,7 @@ judge from directions:
 Using these hats, one can construct programs: A sequence of time-boxed discussions where a specific hat is chosen for each interval. This helps the group focus on aspects of the problem and avoids chaotic discussions.
 
 allow to:
+
 - fully collect pro/con arguments (black/yellow) before discussion (black)
 - collect insight even from people not fond of an idea
 - "turn off" negativity (black) for a while to boost creativity (green)
@@ -76,8 +77,8 @@ for unstructured meetings.
 
 1. Coordinator collects topics
 2. Topics are assigned a priority
-3. Timeboxed discussion according to priority
-4. Note down results
+3. Topics are discussed in a timebox according to priority
+4. Results are noted down.
 
 ### Kompleximeeting
 

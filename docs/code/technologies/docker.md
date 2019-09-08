@@ -8,7 +8,6 @@
 - create and use non-root user
 - config small
 
-
 ## workflow
 use jenking to build code 
 scan docker container & fail build if scanner fails (clairctl)

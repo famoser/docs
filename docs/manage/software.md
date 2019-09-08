@@ -85,7 +85,11 @@ priorize according to (sum of business value + risk reduction + opportunity enab
 
 for easier estimates, ask someone who has done it before, work in iterations or use relative estimation between all available items.
 
-### developing
+### design
+
+use cleartext for data if possible to increase understandability
+
+### develop
 
 relax; only publish solid, tested code under any circumstance, never lower the bar of minimal quality, especially not under error-prine, high-pressure situations: short-term benefits are not worth the risk and cost of the long-term.
 

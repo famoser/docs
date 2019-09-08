@@ -70,14 +70,14 @@ describes how self-organization is characterized
 a real team has the following features;
 
 - a compelling mission to fulfil
-- clear boundaries (information flow, alignment to organisation, resources, decision power)
-- authority to self-manage (within those boundaries)
+- clear boundaries (information flow, alignment to organization, resources, decision power)
+- authority to self-manage (within given boundaries)
 - stability over some period of time
 
 the following aspects have to be managed (either by the team or manager)
 
 - directions (target/purpose of the team)
-- designing the performing unit (environment, scheduling, work behaviour, ...)
+- designing the performing unit (environment, scheduling, work behavior, ...)
 - monitoring/managing work progress
 - execution of the work
 
@@ -91,4 +91,4 @@ self-organized teams are characterized by:
 
 ## Cross cultural teams
 
-https://www.hofstede-insights.com/models/national-culture/ to assess cultural differences
+https://www.hofstede-insights.com/country-comparison/ to assess cultural differences

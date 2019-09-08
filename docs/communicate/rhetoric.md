@@ -113,15 +113,15 @@ Look forward to the talk or what comes after.
 It is natural to be nervous; just another challenge waiting to be beat.  
 The talk happens even if you are not optimally prepared; you can not change the past.  
 You are allowed to make mistakes, it does not have to be perfect.  
-You know about the subject best.
+You know about the subject best.  
 Play out your strengths and be aware of your weaknesses.  
-Be courteous, kind, motivated.  
+Be courteous, kind, motivated.
 
 ### Ascent
 
 Walk slowly and certain, use the walk to dissipate excess energy from the stage fright.  
 Upon arrival, wait a bit ("let the soul catch up").  
-Wait for the silence to propagate.   
+Wait for the silence to propagate.  
 Stand firmly and controlled.  
 Empty your hands.  
 Smile because you were looking forward to this or to what happens afterwards.  
@@ -185,22 +185,22 @@ Use the five phrase technics (primarily problem-solving / position forms).
 ## Discussions
 
 Use the principled negotiation approach.  
-https://yourlogicalfallacyis.com for fallacies in argumentions  
+https://yourlogicalfallacyis.com for fallacies in argumentation.
 
 ### Black Rhetoric
 
-interrupt (ask for clarifications, to repeat or closed/open questions, "could you repeat ...")  
-embarrass (ask difficult questions, quickly answer it with facts to leave the impression the asked one does not know those, "you do not even know the basics")  
-play naive (project the image of trying to understand but like it is impossible to do so, "I am still strugging with...")  
-object continuously (always object, "I just want to look at the problem from a different point of view")  
-indirect insult (use formulations to accuse, "you misunterstand me")  
-direct insults (based on profession/education/lifestyle, wrap it up in a joke)  
-deny competence (too young/old, no real-world experience; "its not personal")  
-deny integrity (pick out inconsistent behaviour, "you have arrived by airplane")  
-focus on irrelevant details (to avoid talk about the point in question)  
-appeal to morals (use thetorical questions, "you dishoner the legacy ...")
-mimic to focus on the big picture ("lets focus on the main points, I can deliver the detailed numbers ...")  
-mimic diligence (disregard arguments that are too imprecise, "this just seems not properly thought through")  
-phrases ("it is obvious", "everyone with good common sense")  
-conjunctive (to get the opponent to say something stupid, "what would you do if ...")  
-counter questions (directly ask another question to get control of the conversation, "i can answer this question but what will you do with it?")
+interrupt (ask for clarifications, to repeat or closed/open questions, "could you repeat ...").  
+embarrass (ask difficult questions, quickly answer it with facts to leave the impression the asked one does not know those, "you do not even know the basics").  
+play naive (project the image of trying to understand but pretend that it is impossible to do so, "I am still struggling with...").  
+object continuously (always object, "I just want to look at the problem from a different point of view").  
+indirect insult (use formulations to accuse, "you misunterstand me").  
+direct insults (based on profession/education/lifestyle, wrap it up in a joke).  
+deny competence (too young/old, no real-world experience; "its not personal").  
+deny integrity (pick out inconsistent behavior, "you have arrived by airplane").  
+focus on irrelevant details (to avoid talk about the point in question).  
+appeal to morals (use rhetorical questions, "you dishonour the legacy ...").
+mimic to focus on the big picture ("lets focus on the main points, I can deliver the detailed numbers ...").  
+mimic diligence (disregard arguments that are too imprecise, "this just seems not properly thought through").  
+phrases ("it is obvious", "everyone with good common sense").  
+conjunctive (to get the opponent to say something stupid, "what would you do if ...").  
+counter questions (directly ask another question to get control of the conversation, "i can answer this question but what will you do with the response?").

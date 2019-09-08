@@ -18,16 +18,16 @@ truth seekers think in right or wrong; not helpful in conflicts
 ## imbalance of impression
 
 own cause of actions seems reasonable within the context
-but are judged by the other without the context and credited to the character.
+but are judged by the other without it and credited to the character.
 
-own way of reasoning seems assertive, communicative; like being careful or strong in an argument;   
-but to the other may seem ruthless, talktive; like a coward, or a know-it-all
+own way of reasoning seems assertive, communicative; like being careful or strong in an argument;
+but to the other may seem ruthless, talkative; like a coward, or a know-it-all.
 
 own conclusion of some event may focus on specific aspects
-but the others conclusion may differ because different aspects were observed
+but to others conclusions may differ because different aspects were observed.
 
 own change proposals may seem cautious and reasonable
-but the others interpret the proposal more radical until it is clearly negative
+but others might interpret the proposal more radical until it is clearly negative.
 
 ## principles of communication
 
@@ -41,16 +41,16 @@ invest time to clarify these points as good as possible; later on it will cost m
 
 ## the "discover mode"
 
-assume the other has good intentions
+assume the other has good intentions.
 
 investigate the point of view of the other ("what is you point of view").  
 show interest and respect and try to view the problem from the other's perspective.  
 summarize the understood points and ask for confirmation.  
-then ask to summarize own point of view.  
+then ask to summarize own point of view.
 
 ## formulations
 
-avoid formulations which accuse ("you"), claim objectivity, use micro-agressions ("unrealistic") or generalizations ("always", "never") and demand/prohibit ("you can not seriously think ...").
+avoid formulations which accuse ("you"), claim objectivity ("it is obvious"), use micro-aggressions ("unrealistic") or generalizations ("always", "never") and demand/prohibit ("you can not seriously think ...").
 
 formulate while clearly showing these are own points of view, interests, expectations and opinions ("I see this differently", "I assume our customers ...", "I am angry"). Follow with a call to action ("lets find out", "what is your point of view").
 
@@ -62,7 +62,7 @@ let the receiver prepare internally by asking multiple times ("i would like to g
 
 **give**:
 - be respectful
-- describe specific behaviours
+- describe specific behaviors
 - do not evaluate, instead describe how it affects oneself ("I have a problem with this because ...")
 - propose alternative and justify the interests
 - do not evaluate or focus on character
@@ -71,22 +71,22 @@ let the receiver prepare internally by asking multiple times ("i would like to g
 - be relaxed and thankful
 - actively listen (let other finish speaking, be curious & ask for clarifications if needed)
 - do not defend, justify
-- reflect & draw conclusions / change behaviours
+- reflect & draw conclusions / change behaviors
 
 ## mirror/interview conversations
 
 for others to be most likely to change they need to arrive at the conclusions for themselves; guide them where they want to be themselves by "interviewing" them.  
-needs high attention, sensitivity and fast thinking. 
+needs high attention, sensitivity and fast thinking.
 
 guidelines:
 - ask neutral question
 - summarize continuously the brought up points without assessing them
-- check with the other the summary is complete and accurate
+- confirm that the summary is complete and accurate
 - proceed with the next questions
 
 ## address unspoken conflicts
 
-check for signs of suppressed aggressions or otherwise unhealthy behaviours.  
+check for signs of suppressed aggressions or otherwise unhealthy behaviors.  
 avoid to interpret & assess, instead only describe what you see/feel.
 
 tools:
@@ -97,8 +97,8 @@ tools:
 ## stop attacks
 
 do not ignore (because attacker may continue) or defend (because may escalate).  
-acknowlege the attack (as little as possible to stop them).  
-shift focus back on subject.  
+acknowledge the attack (but only as little as needed to stop them).  
+shift focus back on subject. 
 
 ## deescalate conflicts
 
@@ -106,19 +106,14 @@ calm down internally (sit down, breath deeply).
 observe and describe current situation/communication pattern ("we are annoying each other because ...").  
 then propose an alternative approach focusing on interests & targets ("how can we reach our target of...").
 
-appeal to the noble cause of each participant
+appeal to the noble cause of each participant.
 
-change to an interest based discussion to preserve face (interests do not need to change, only positions do!)
+change to an interest based discussion to preserve face (interests do not change, only positions need to!).
 
 ### principled negotiation
 
-separate the people from the problem (work towards mutual agreement, actively listen and interpret in their favot)  
-focus on interests not positions (stand in their shoes to find out why / why not)  
-invent options for mutual gain (do not finish negotiation until both parties have been heard  
-insist on using objective criteria (find out intentions and never give in to pressure)  
-work on your BATNA (but do not let it hinder you to find the best possible outcome)
-
-## further research
-
-- Conflict Dynamic Profile
-- Aggression Questionnaire (Buss & Perry)
+separate the people from the problem (work towards mutual agreement, actively listen and interpret in their favorite).  
+focus on interests not positions (stand in their shoes to find out why / why not).  
+invent options for mutual gain (do not finish negotiation until both parties have been heard.  
+insist on using objective criteria (find out intentions and never give in to pressure).  
+work on your BATNA (but do not let it hinder you to find the best possible outcome).

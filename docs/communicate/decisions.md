@@ -76,7 +76,7 @@ You may structure the process like this:
   - ensuring its in the companies best interest
 - Decision taker communicates
   - the basis for the decision
-  - the decision
+  - the decision itself
   - why certain consultation partners were skipped
   - why certain advice was overruled
 - In exchange, the decision taker receives

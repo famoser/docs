@@ -4,7 +4,7 @@ tools to be creative
 
 ## Lateral Thinking
 
-concerned with possibilities, what might be; tries to be different to normal, duductionable conclusions by deduction
+concerned with possibilities, what might be; tries to be different to normal, deduction based conclusions
 
 ### Techniques
 
