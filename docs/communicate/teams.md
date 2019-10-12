@@ -77,7 +77,7 @@ a real team has the following features;
 the following aspects have to be managed (either by the team or manager)
 
 - directions (target/purpose of the team)
-- designing the performing unit (environment, scheduling, work behavior, ...)
+- designing the performing unit (environment, scheduling, work behaviour, ...)
 - monitoring/managing work progress
 - execution of the work
 
