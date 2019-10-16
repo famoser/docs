@@ -52,7 +52,17 @@ then ask to summarize own point of view.
 
 avoid formulations which accuse ("you"), claim objectivity ("it is obvious"), use micro-aggressions ("unrealistic") or generalizations ("always", "never") and demand/prohibit ("you can not seriously think ...").
 
-formulate while clearly showing these are own points of view, interests, expectations and opinions ("I see this differently", "I assume our customers ...", "I am angry"). Follow with a call to action ("lets find out", "what is your point of view").
+disagree constructively:
+
+- disagree, clearly showing that what follows are own points of view, interests, expectations and opinions ("I see this differently", "I assume our customers ...", "I am angry").
+- call to action ("lets find out", "what is your point of view").
+
+ask something in a non-violently way:
+
+- observe facts ("i see there are used socks on the floor")
+- note feelings ("this makes me uncomfortable")
+- uncover desires ("i want order in the house")
+- make explicit requests ("would you be willing to put these away?")
 
 ## constructive feedback
 
