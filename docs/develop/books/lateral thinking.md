@@ -1,12 +1,8 @@
-# Creativity
-
-tools to be creative
-
-## Lateral Thinking
+# lateral thinking
 
 concerned with possibilities, what might be; tries to be different to normal, deduction based conclusions
 
-### Techniques
+## Techniques
 
 Use a creative pause; meaning simply stop for some time trying to come up with something new.
 
@@ -39,8 +35,3 @@ where to apply in EnterpriseTM:
 - develop new opportunities from already existing resources
 - devise strategies which fit multiple possible futures
 - get employees more interested (hence motivated) into their work
-
-## Resources
-
-Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas for a book about this
-

@@ -1,6 +1,4 @@
-# Personal Development
-
-the essence of "self-help" books
+# Personal
 
 ## Covey
 
@@ -11,7 +9,7 @@ the essence of "self-help" books
 5. first understand, then try to be understood; listen empathetically, understand the other opinions and the environment they were developed in, then explain
 6. work sustainable; exercise, take breaks and be a part of society
 
-## feedback received
+## feedback
 
 ### works well
 

@@ -1,7 +1,5 @@
 # Workshops
 
-how to create one based on attended ones.
-
 ## agile developer
 
 as developed & taught by [Peter Gfader](https://www.gfader.com/)
@@ -36,3 +34,37 @@ social:
 - share experiences from past projects
 - discussion in groups for open answers
 - let participants explain technicalities
+
+## project management
+
+targets today
+- project management introduction
+- know how to estimate & control project
+
+tell during course of workshop
+- complexity exponential
+- APIs complex
+- getting it done
+- bugs after launch
+- maintenance is 10-20%
+- complexity / estimation technology independent
+
+plan:
+- vision (what to do; priorities)
+- elements (what needed to solve)
+- cost/complexity, benefit/reward, risk
+- calculate priority
+- order
+- milestones
+- risk analysis
+- risk mitigation
+
+during project:
+- continuously overview risks
+- manage cost
+- manage expectations
+
+project management
+- ownership product -> outside
+- vision, expertise, schedule -> team
+- progress, relationships -> stakeholders

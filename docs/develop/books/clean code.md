@@ -123,4 +123,3 @@ Own principles:
 - [f] group related statements together
 - [g] higher levels should be of higher quality
 
-https://deviq.com for principles & patterns

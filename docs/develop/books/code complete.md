@@ -1,8 +1,6 @@
-# Develop software
+# Software development process
 
-## software development process
-
-use construction site analogy
+construction site analogy
 
 - skyscraper needs different approach than simple shed
 - to rebuild a house with a different architecture is expensive
@@ -18,7 +16,7 @@ use construction site analogy
 to start a software project you need a clear vision about what problem will be solved.
 this helps the team to align, enables "common sense" and generates a multitude of solution.
 
-### work effective
+## work effective
 
 work in iteration that are as small as possible while still providing some business benefit.  
 the reduced complexity speeds up exponentially and the focus can shift much quicker.  
@@ -40,7 +38,7 @@ scaling tips
 - limit WIP to detect & resolve bottlenecks  
 - use central test data management for easier e2e test setup
 
-### iteration
+## iteration
 
 define specific, verifiable goals to get close to the vision.  
 analyze the risks with the goals to archive.  
@@ -68,7 +66,7 @@ scale utilities:
 - test planning
 - different QA team
 
-### requirements engineering
+## requirements engineering
 
 requirements as a whole should produce a ready-to-use product (use cases, inputs, outputs), not conflict with each other and in a language/granularity that is consistent and understood by users / third parties.
 they may also contain non-functional requirements as response time, error recovery, maintainability.
@@ -80,7 +78,7 @@ but they may also prevent taking a shorter path to the target detected while imp
 requirements can change anytime, but the changing business value, cost and schedule have to be considered wisely.
 if requirements change often, introduce formal procedure to make process transparent and scalable.
 
-### estimation
+## estimation
 
 estimate duration at low level (few hours) and take the time to do it properly. multiply with factor depending on unknowns, but minimally x1.2. use appropriate unit to communicate accuracy of whole estimation.
 
@@ -88,11 +86,11 @@ prioritize according to (sum of business value + risk reduction + opportunity en
 
 for easier estimates, ask someone who has done it before, work in iterations or use relative estimation between all available items.
 
-### design
+## design
 
-use cleartext for data if possible to increase understandability
+use believable test data to increase understandability (hence avoid lorem ipsum).
 
-### develop
+## develop
 
 relax; only publish solid, tested code under any circumstance, never lower the bar of minimal quality, especially not under error-prone, high-pressure situations: short-term benefits are not worth the risk and cost of the long-term.
 
@@ -104,7 +102,7 @@ for low-level performance improvements, order case statements by frequency, crea
 
 document surprises (like performance improvements, workarounds) and what can not be expressed by code (like special math operations), focusing on the why not the how.
 
-### quality assurance
+## quality assurance
 
 formally define the prioritization of the quality objectives, and use guidelines/best practices, informal/formal reviews & external audits to implement it. while quality assurance needs more time upfront, it does not increase the total cost because it leads to software with fewer defects (less time spent on support).
 
@@ -118,7 +116,7 @@ use pair programming, formal reviews (discuss code using clear roles including r
 
 https://github.com/google/eng-practices for help how to do a PR review
 
-### testing
+## testing
 
 for unit testing, create test cases according to statement, branch, definition/use pair, loop (0, 1, any) or boundary (min, any, max) coverage (white-box approach). include test cases for dirty (erroneous) cases by using too much, too few or wrongly typed data.
 
@@ -127,7 +125,3 @@ for integration testing, focus on the interaction of the components but avoid to
 for e2e testing, focus on complete user interactions representing sensible use cases but avoid to increase coupling.
 
 document for errors how much time they needed to be found, where they are located and what the root cause was (off-by-one, nullRef). bugs tends to be concentrated on specific parts of the software; find those and minimize the impact with refactorings & common-cases-checklists. 
-
-## Sources
-
-for statistics for most of the topics here, consult code complete (Steve Mc. Connel), besides the good statistics, the book is unfortunately outdated, repetitive and noisy (contains a lot of advice targeted at new programmers without a computer science degree).  

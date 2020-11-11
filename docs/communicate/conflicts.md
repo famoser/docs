@@ -3,7 +3,7 @@
 avoid unnecessary conflicts, initiate smoldering conflicts & resolve active conflicts.
 
 too many conflicts with the motivation to be clear & honest about opinions
-smoldering conflicts becauses want to avoid to embarass others & harmony
+smoldering conflicts because want to avoid embarrass others & harmony
 
 ## aspects of active conflicts
 
@@ -72,7 +72,7 @@ let the receiver prepare internally by asking multiple times ("i would like to g
 
 **give**:
 - be respectful
-- describe specific behaviors
+- describe specific behaviours
 - do not evaluate, instead describe how it affects oneself ("I have a problem with this because ...")
 - propose alternative and justify the interests
 - do not evaluate or focus on character
@@ -81,7 +81,7 @@ let the receiver prepare internally by asking multiple times ("i would like to g
 - be relaxed and thankful
 - actively listen (let other finish speaking, be curious & ask for clarifications if needed)
 - do not defend, justify
-- reflect & draw conclusions / change behaviors
+- reflect & draw conclusions / change behaviours
 
 ## mirror/interview conversations
 
@@ -96,7 +96,7 @@ guidelines:
 
 ## address unspoken conflicts
 
-check for signs of suppressed aggressions or otherwise unhealthy behaviors.  
+check for signs of suppressed aggressions or otherwise unhealthy behaviours.  
 avoid to interpret & assess, instead only describe what you see/feel.
 
 tools:
@@ -120,9 +120,9 @@ appeal to the noble cause of each participant.
 
 change to an interest based discussion to preserve face (interests do not change, only positions need to!).
 
-### principled negotiation
+## principled negotiation
 
-separate the people from the problem (work towards mutual agreement, actively listen and interpret in their favorite).  
+separate the people from the problem (work towards mutual agreement, actively listen and interpret in their favour).  
 focus on interests not positions (stand in their shoes to find out why / why not).  
 invent options for mutual gain (do not finish negotiation until both parties have been heard.  
 insist on using objective criteria (find out intentions and never give in to pressure).  

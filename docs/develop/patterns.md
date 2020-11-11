@@ -1,10 +1,17 @@
-# Builder
+# Patterns
+
+useful to make program easier understandable & maintainable.
+
+resources:
+- https://sourcemaking.com/ for patterns
+
+## Builder
 
 to create complex structures where only some part matters in the context it is used.
 
 Primarily used for testing, the builder provides a default structure, where the test-relevant parts can be set explicitly, but without the need to setup the other parts of the structure.
 
-## Example
+### Example
 
 ```c-sharp
 class PersonBuilder
@@ -54,7 +61,7 @@ class EmailServiceTest
 }
 ```
 
-## Experiences
+### Experiences
 
 Do create realistic structures as close to the business case as possible. This makes reading and debugging easier.
 

@@ -2,33 +2,13 @@
 
 the architecture should serve its users, and hence must be adapted first to the skills and needs of the programmers actually working with it.
 
-## documentation
-
-document at various granularities, including the justifications behind design decisions.
-document how business rules or non-functional requirements (like performance) impacted the argument and why.
-for big applications & home-made architectures, you may want to document additional parts as described by Code Complete (Steve Connel), p45.
-
-define error processing:
-- corrective (try to continue) / detective (fail)
-- active (plausibility checks) / passive (fail if no way to continue)
-- propagation (fail at first invalid input or after checking all)
-- consistent error messages
-
-be aware of the stability of the environment and take precautions (experimental technologies need a time buffer to account for bugs in tooling).
-
-define code style, tool chain, testing approach (TDD or similar) and definition of done. use conventions to prevent religious wars.
-
-## high-level architectures
-
-some high-level, not mutually exclusive, architecture approaches.
-
-### Subsystems
+## Subsystems
 
 abstracts messy details from common types of subproblems away from the other modules.
 
 common subsystems include business rules (laws, regulation, prices), UI (GUI / command line), I/O access (database), system dependencies (syscalls, exec calls)
 
-### Domain driven design
+## Domain driven design
 
 eases the development by introducing knowledge about the business process in the application naming / class concept, down to the database.
 
@@ -38,7 +18,7 @@ A developer now only needs to understand the domain he is currently working in, 
 
 The downsides include the maintenance of the transformation logic and alignment efforts when business terminology changes.
 
-### Microservice architecture
+## Microservices
 
 decouples parts of the application in separate services connected via a REST interface.
 
@@ -48,13 +28,13 @@ This setup eases updates, as single services can be replaced one after another. 
 
 The downsides include that services may never be able to change their interface once specified, as they do not know which services use it.
 
-### Event sourcing
+## Event sourcing
 
 formulate all changes in event. interested parties listen to specific events and update their local state accordingly.
 
 all events are saved, and can be replayed to reproduce bugs or recalculate state after a bugfix.
 
-### CQRS (command query responsibility segregation)
+## CQRS (command query responsibility segregation)
 
 separate the command and query model, unlocking the ability to optimize each model for their specific use cases.
 
@@ -62,7 +42,7 @@ the command model updates the database according to user commands.
 
 the query model gather data from the database for display.
 
-### command / event separation
+## Command / Event separation
 
 separate commands (actions which modify state) and events (results of such actions) to ease scalability.
 
@@ -78,7 +58,7 @@ The downsides include similar problems than with most distributed systems; reord
 
 To battle the downsides, carefully design how the events/commands transfer is setup, for example using a message queue which provides the required properties. Avoid complex events/commands and exposing domain-private information to avoid having to propagate changes inside the domain to others.
 
-### Onion architecture
+## Onion
 
 use layers to separate different kind of logic (presentation, business, domain).
 
@@ -92,7 +72,7 @@ The downsides include that mapping efforts may increase substantially; the same 
 
 To battle the downsides, allow loose layering (at the cost that it is easier for an outer layer to access/modify something from an inner layer it is not supposed to). 
 
-### Hexagonal architecture (adapter & ports)
+## Hexagonal (adapter & ports)
 
 structure the application around use cases which fully define how they interact with the environment (both in- and output).
 
@@ -103,7 +83,3 @@ Advantages of that approach include that a use case can be separated cleanly fro
 The downsides include that for each hexagon, many potentially similar entities (and hence mappings) need to be created. Also, many very specific interfaces need to be implemented.
 
 To battle the downsides, you may include multiple similar use cases in the same hexagon. If abstracted properly pure technicalities may also be shared by multiple hexagons.
-
-## Resources
-
-Design Patterns: Elements of Reusable Object-Oriented Software by Gang of Four
