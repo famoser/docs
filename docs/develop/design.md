@@ -64,7 +64,18 @@ UI designs:
 - https://uimovement.com/ for over the top UI designs  
 - https://www.behance.net/ for designs  
 - https://www.awwwards.com/ for daily awarded web design
+- http://beautifulopen.com/
 
 templates:
 - https://carrd.co/ for landing pages
 - https://html5up.net for landing pages
+- http://blacktie.co/
+- https://www.styleshout.com/
+- https://templated.co/
+- https://www.creative-tim.com/ (inkl. vueJS)
+
+frameworks;
+- http://getbootstrap.com/
+- http://carbondesignsystem.com/
+- http://foundation.zurb.com/
+- http://semantic-ui.com/

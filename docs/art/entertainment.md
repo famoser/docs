@@ -4,7 +4,8 @@ Comics
 - https://www.xkcd.com/ for nerdy comics  
 
 Web
-- https://theuselessweb.com/ for an endless stream of strange webpages  
+- https://theuselessweb.com/ for an endless stream of strange webpages
+- https://www.discuvver.com/ for "useful" webpages  
 - https://pdos.csail.mit.edu/archive/scigen/ for fake paper generation
 
 Music
@@ -17,3 +18,6 @@ Music
 
 Draw
 - http://weavesilk.com/ to draw silk online  
+
+Exercise:
+- https://musclewiki.com

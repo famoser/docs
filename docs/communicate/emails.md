@@ -14,7 +14,7 @@ separate multiple paragraphs:
 
 choose the same form of anrede/gruss like your conversation partner.
 
-adapt the tone / formality to your conversation parter.
+adapt the tone / formality to your conversation partner.
 
 ## communication pattern
 
