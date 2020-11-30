@@ -28,6 +28,15 @@ basic tools:
 - speccy
 - httptrack
 
+username:
+- https://knowem.com/checksocialnames.php
+- https://checkusernames.com/
+- https://iwantmyname.com/
+
+visualizations:
+- https://gource.io/ for git
+- https://insights.stackoverflow.com for technologies
+
 ## php
 
 resources:
@@ -71,8 +80,6 @@ programs:
 - wireshark
 - John the Ripper
 - winpccap
-Jasager
-
 
 ettercap:
 - configure `etter.conf` (UID = 0, GID = 0, exclude iptables)
