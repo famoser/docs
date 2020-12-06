@@ -23,6 +23,9 @@ webpage checks (performance):
 webpage checks (other):
 - https://achecker.ca/checker/index.php for accessibility
 
+security:
+- https://owasp.org/www-project-top-ten/ for OWSAP top 10
+
 builders:
 - https://www.wix.com/
 - https://www.squarespace.com
@@ -42,6 +45,9 @@ showcases (practical):
 - https://httpster.net/
 - https://www.siteinspire.com/
 - http://www.uitemple.com/
+
+UX:
+- https://www.useronboard.com/user-onboarding-teardowns/
 
 CMS:
 - https://wordpress.org

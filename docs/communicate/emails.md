@@ -2,24 +2,29 @@
 
 if many questions open, try to arrange a call instead.
 
-## content
+## E-Mails
 
 same as clean code applies: a single, minimal purpose. structure cleanly without repetitions.
 
-separate multiple paragraphs:
+content:
+
 - introduce by responding to previous email /events or introduce self (if first email).
-- write short answer (actionable advice / help) which potentially resolved conversation.
-- motivate / explain why answer works or makes sense.
-- future steps
+- write short answer (actionable advice / help) which potentially resolves conversation.
+- future steps / easy call to action
 
-choose the same form of anrede/gruss like your conversation partner.
+mirror:
 
-adapt the tone / formality to your conversation partner.
+- choose the same form of anrede/gruss like your conversation partner.
+- adapt the tone / formality to your conversation partner.
+- respond at similar times / at least working times.
 
-## communication pattern
-
-during working days, respond within 24h.
-if this is not be possible, ensure the conversation partner receives a notice when to expect a response.
-
-send emails at appropriate (working) times.
+respond within 24 hours or ensure the conversation partner receives a notice when a response can be expected.  
 get back to people if no response received in 72h.
+
+## Presentations
+
+adapt length & depth to the audience.
+ensure the moment is right (if in doubt, ask).
+
+make it look stunning.
+send drafts to target audience to involve them in specification.

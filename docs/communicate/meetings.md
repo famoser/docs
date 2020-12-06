@@ -2,12 +2,6 @@
 
 effectively collaborate
 
-## Decisions
-
-reach a decision fast.
-
-you may not need a meeting; see [decisions](decisions.md).
-
 ## Sensitive
 
 talk openly about otherwise sensitive stuff

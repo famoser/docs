@@ -2,6 +2,18 @@
 
 the architecture should serve its users, and hence must be adapted first to the skills and needs of the programmers actually working with it.
 
+## General
+
+define error processing:
+- corrective (try to continue) / detective (fail)
+- active (plausibility checks) / passive (fail if no way to continue)
+- propagation (fail at first invalid input or after checking all)
+- consistent error messages
+
+be aware of the stability of the environment and take precautions (experimental technologies need a time buffer to account for bugs in tooling).
+
+define code style, tool chain, testing approach (TDD or similar) and definition of done. use conventions to prevent religious wars.
+
 ## Subsystems
 
 abstracts messy details from common types of subproblems away from the other modules.

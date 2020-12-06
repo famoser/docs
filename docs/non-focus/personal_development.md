@@ -1,4 +1,4 @@
-# Personal
+# Personal development
 
 ## Covey
 

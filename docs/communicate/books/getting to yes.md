@@ -13,7 +13,7 @@ little time for logical reasoning because must come up with the next argument to
 each message contains elements of facts, self revelation, relationship and call to action.
 facts and relationship are often mixed leading to discussions about the facts when there is a problem with the relationship.
 
-truth seekers think in right or wrong; not helpful in conflicts
+truth seekers think in right or wrong; not helpful in conflicts.
 
 ## imbalance of impression
 
