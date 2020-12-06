@@ -20,3 +20,24 @@ uncertainty is normal and allows to improve.
 avoid protecting some identity as it prevents change.  
 "do something": always do something, even if small.  
 relationships need trust.  
+
+## personal feedback
+
+works well:
+
+- transfer of expert knowledge
+- formation of team (the "we" focus)
+- efficiency of meetings
+- pragmatic decision taking
+
+improvements:
+
+- the why of deadlines -> replace by prioritization & speed?
+- reminders uncomfortable -> different formulation of reminders, better deadline communication, automate remainders by impersonal tool?
+- unresolved dependencies -> easier e2e testing setup
+- decisions undocumented -> define & use appropriate place
+
+personality:
+
+- Conflict Dynamic Profile
+- Aggression Questionnaire (Buss & Perry)

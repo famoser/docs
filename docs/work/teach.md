@@ -1,70 +1,29 @@
-# Workshops
+# Teach
 
-## agile developer
+feedback:
+- before with background, target of participants
+- during with speed
+- after with actionable feedback
 
-as developed & taught by [Peter Gfader](https://www.gfader.com/)
+short workshop style:
+- start with motivation, target of course
+- introduce terminology & theory, then quiz
+- apply theory & then allow to solve exercises
+- end with topics to choose from
 
-content:
+## tools
 
-- let people read "the scrum guide"
-- motivate scrum
-  - explain complex domain (vs simple, complicated, anarchy)
-  - motivate (between ad-hock like improvisation and planned like waterfall)
-- discuss slide deck "Software Development with Scrum .Net" (see library github repo)
-- discuss team work
-  - empower team
-  - be a good teamplayer
-- discuss & motivate technicalities
-  - track backlog (why online/offline; use github/devOps)
-  - estimate (cost/time/complexity; use fibonacci)
-  - testing (don't be a checker; unit/integration/e2e pyramid)
-- let people practice scrum using simple, buggy software (like console emulator)
-  - Sprints taking one hour
-  - Workshop leader as Product Owner
-  - Let people try out different methods to estimate
-- let people note down what to do different next week
-
-social:
-
-- introduce group to each other:
+introduce group to each other:
   - explain work (how do you explain it to your mother)
   - share past experience (what are you most proud of)
   - share expectations to the course (what do you hope to learn)
-- make multiple teams when doing group work
-- share experiences from past projects
-- discussion in groups for open answers
-- let participants explain technicalities
 
-## project management
+group work:
+- discuss open answers, then present to all
+- explain last technical topics to each other
 
-targets today
-- project management introduction
-- know how to estimate & control project
+blackboard:
+- PostIt with technical term, in turn pick one & explain
 
-tell during course of workshop
-- complexity exponential
-- APIs complex
-- getting it done
-- bugs after launch
-- maintenance is 10-20%
-- complexity / estimation technology independent
-
-plan:
-- vision (what to do; priorities)
-- elements (what needed to solve)
-- cost/complexity, benefit/reward, risk
-- calculate priority
-- order
-- milestones
-- risk analysis
-- risk mitigation
-
-during project:
-- continuously overview risks
-- manage cost
-- manage expectations
-
-project management
-- ownership product -> outside
-- vision, expertise, schedule -> team
-- progress, relationships -> stakeholders
+byebye:
+- let people note down what to do different next week

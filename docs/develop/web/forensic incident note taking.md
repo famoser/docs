@@ -1,11 +1,4 @@
-# Security
-
-effectively managing the trade off between usability and security
-
-General:
-- https://owasp.org/www-project-top-ten/ for OWSAP top 10
-
-## Forensic incident node taking
+# Forensic incident node taking
 
 structure notes into People, Places, Things and Events to make it transparent what happened
 

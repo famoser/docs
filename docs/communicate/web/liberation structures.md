@@ -1,10 +1,4 @@
-# Meetings
-
-effectively collaborate
-
-## Sensitive
-
-talk openly about otherwise sensitive stuff
+## Meetings
 
 ### TRIZ
 
@@ -23,8 +17,6 @@ guidelines
 - begin with very unwanted result
 - note down activities to stop and number them
 - include people involved with stopping something by asking who else needs to be included
-
-## Creative
 
 meetings to work out ideas
 
@@ -62,8 +54,6 @@ allow to:
 - include members usually wearing one type of hat to think as other hats 
 
 One may choose a sequence best suited for the problem under discussion: For example, in the conceptual phase of a project one, may choose the following sequence: `Blue` (to define what has to be answered), `White` (to share knowledge of team members), `Green` (to collect ideas) and then `Blue` (to elect an idea to focus on next).
-
-## Discussions
 
 ### Lean coffee
 

@@ -1,6 +1,9 @@
-# Startup
+# Money
+
+account & more
 
 accounting:
+- https://cashctrl.com for swiss accounting
 - https://www.bexio.com/ for accounting
 
 businesses:

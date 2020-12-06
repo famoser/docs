@@ -1,4 +1,4 @@
-# Emails
+# Communicate
 
 if many questions open, try to arrange a call instead.
 
