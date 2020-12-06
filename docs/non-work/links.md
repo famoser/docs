@@ -50,6 +50,3 @@ video chat:
 collaborate:
 - https://hackmd.io
 - https://de.overleaf.com/
-
-organizing:
-- 

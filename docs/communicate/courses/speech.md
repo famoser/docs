@@ -181,8 +181,3 @@ To avoid being too passive, use the following loop:
 
 Use the universal form of yesterday, today, tomorrow.
 Use the five phrase technics (primarily problem-solving / position forms).
-
-## Discussions
-
-Use the principled negotiation approach.  
-https://yourlogicalfallacyis.com for fallacies in argumentation.
