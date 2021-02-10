@@ -3,6 +3,7 @@
 useful to make program easier understandable & maintainable.
 
 resources:
+
 - https://sourcemaking.com/ for patterns
 
 ## Builder

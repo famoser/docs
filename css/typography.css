@@ -1,3 +1,7 @@
 .section ul, .section ol {
     margin-top: -12px;
 }
+
+p + ul {
+	margin-top: -1em;
+}

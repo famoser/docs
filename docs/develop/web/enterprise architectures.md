@@ -9,6 +9,7 @@ be aware of the stability of the environment and take precautions (experimental 
 define code style, tool chain, testing approach (TDD or similar) and definition of done. use conventions to prevent religious wars.
 
 define error processing:
+
 - corrective (try to continue) / detective (fail)
 - active (plausibility checks) / passive (fail if no way to continue)
 - propagation (fail at first invalid input or after checking all)

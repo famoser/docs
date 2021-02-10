@@ -33,7 +33,8 @@ effectiveness changes due to setup (documentation, tools), people (skills, exper
 
 orders of magnitude are between a top programmer and an underperforming one (1:10 and more). bad teams need 3.5 times more time than good ones, and attract even more bad programmers (and vice-versa). a quiet, private, interruption-free and big office doubles productivity.
 
-scaling tips
+scaling tips:
+
 - use trunk based development to avoid merging hell  
 - limit WIP to detect & resolve bottlenecks  
 - use central test data management for easier e2e test setup

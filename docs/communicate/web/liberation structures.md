@@ -10,7 +10,7 @@ let the team members do the following;
 2. go through list and pick activities currently going on which resemble any of the entries
 3. go through the identified activities and note down deployable countermeasures
 
-guidelines
+guidelines:
 
 - make an example "how to build IT system no one wants to use"; solutions should be about stopping something
 - use 1-2-4-All for each step; help confused/laughing groups

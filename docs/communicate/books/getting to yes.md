@@ -71,6 +71,7 @@ choose quiet/relaxes location & time frame to be able to focus.
 let the receiver prepare internally by asking multiple times ("i would like to give feedback to ...", "is now a good time").  
 
 **give**:
+
 - be respectful
 - describe specific behaviours
 - do not evaluate, instead describe how it affects oneself ("I have a problem with this because ...")
@@ -78,6 +79,7 @@ let the receiver prepare internally by asking multiple times ("i would like to g
 - do not evaluate or focus on character
 
 **take**:
+
 - be relaxed and thankful
 - actively listen (let other finish speaking, be curious & ask for clarifications if needed)
 - do not defend, justify
@@ -89,6 +91,7 @@ for others to be most likely to change they need to arrive at the conclusions fo
 needs high attention, sensitivity and fast thinking.
 
 guidelines:
+
 - ask neutral question
 - summarize continuously the brought up points without assessing them
 - confirm that the summary is complete and accurate
@@ -100,6 +103,7 @@ check for signs of suppressed aggressions or otherwise unhealthy behaviours.
 avoid to interpret & assess, instead only describe what you see/feel.
 
 tools:
+
 - observations ("I can see that you frizzy your forehead") without interpretation ("you are annoyed")
 - subjective interpretation ("it seems to me that you are not convinced")
 - questions about the view of the other ("what do you think about the proposal")
