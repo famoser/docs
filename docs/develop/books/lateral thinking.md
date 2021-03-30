@@ -30,6 +30,7 @@ Lateral thinking book, at P151
 - PMI: Scan plus points, then minus points, then interesting points
 
 where to apply in EnterpriseTM:
+
 - get more improvement propositions at every level
 - enable better fitting problem descriptions as both broad & narrow is looked at
 - develop new opportunities from already existing resources
