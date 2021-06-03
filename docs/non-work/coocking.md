@@ -68,8 +68,14 @@ pasta frisch:
 - frische pasta
 
 spätzli auflauf:
+
 - 2 eier = 2.5 dl rahm
 - mit raclette käse überbacken
+
+shashuka:
+- pelati, peperoni
+- kümmel, zwiebel, knoblauch, zimt, koriander, petersilie
+- zerbröselter feta, ei pro person
 
 kartoffelgratin:
 
