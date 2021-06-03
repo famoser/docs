@@ -34,7 +34,9 @@ wähe:
 
 - 2 eier = 1 dl milch
 - pilze, lauch
-- kuchenteig
+- oder 200g rüebli, gruyere
+- oder käsemischung
+- kuchenteig, zwiebeln
 
 käseschnitte/toast hawaii:
 
@@ -64,6 +66,10 @@ pasta frisch:
 - tomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen
 - creme fresh, peterli, schnittlauch
 - frische pasta
+
+spätzli auflauf:
+- 2 eier = 2.5 dl rahm
+- mit raclette käse überbacken
 
 kartoffelgratin:
 
