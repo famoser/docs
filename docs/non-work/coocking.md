@@ -53,12 +53,18 @@ pasta rahmig:
 
 - zwiebel, mehl, rahm (+rotwein, weisswein)
 - pilze, spinat, lauch
-- scharf, käse, 
-- taliatelle
+- nüsse, scharf
+
+pasta quick:
+
+- mascarpone
+- gorgonzola
+- alio e olio
+- pelati (wenig flüssigkeit), öl, ital. gewürz, süsse
 
 pasta auflauf:
 
-- 1 eier = 1 dl milch
+- 1 ei = 1 dl rahm
 - käse, pilze, zwiebeln
 
 pasta frisch:
@@ -81,11 +87,6 @@ kartoffelgratin:
 
 - festkochend, raclette (0.4*kartoffelgewicht), wenig buillon, paprika
 - mehligkochend, rahm = milch (0.4*kartoffelgewicht), muskatnuss, käse
-
-pizza tomatensauce:
-
-- pelati ohne flüssigkeit 
-- öl, ital. gewürz
 
 dal:
 
