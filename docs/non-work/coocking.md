@@ -95,3 +95,17 @@ dal:
 - würzen mit garam masala oder curry, kurkuma, kreuzkümmel, zitrone
 - optional süsskartoffen, blattspinat, yogourt, 
 - optinal koriander, petersilie, cashew, chili, tomatenmark
+
+poke bowl:
+
+- jasminreis als grundlage
+- frisch (gurken, sojabohnen)
+- süss (mango, avocado, ananas)
+- beilage (tofu zB in ingwer/limette marinade, fleischersatz)
+- gewürz (sesam, chili, schnittlauch)
+
+fried rice:
+- reis in öl anbraten, herausnehmen
+- eier (sesamöl, gewürzt) stocken lassen, herausnehmen
+- chinakohl, pilze, paprika, aubergine (sesamöl, sojasauce, reisessig) anbraten
+- alles zusammengeben & mischen

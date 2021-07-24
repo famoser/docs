@@ -39,6 +39,9 @@ big vs small releases:
 - incremental updates & releases help to adapt rapidly (saving time with shortcuts, skipping unneeded functionality, improving through early feedback)
 - big bang is more efficient with no unknown unknowns (the longer the project, the smaller the chance)
 
+bigger projects:
+- https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html 
+
 ## collaboration tools
 
 time tracking:
@@ -56,4 +59,4 @@ resources:
 
 - https://www.scaledagileframework.com/ for enterprise scaled agile methods  
 - https://www.product-frameworks.com/ for a collection of PM tools  
-
+- https://www.btw.so/open-source-alternatives for open source alternatives for popular programs
