@@ -1,5 +1,20 @@
 # Research
 
-summarize:
-
+summaries:
 - https://www.blinkist.com/
+
+networks:
+- https://www.academia.edu/
+
+reference managers:
+- https://mediatum.ub.tum.de/1127579?show_id=1320978 (comparison)
+- https://www.jabref.org/
+- https://www.zotero.org/
+
+find papers:
+- https://www.webofscience.com/
+- https://scholar.google.com/
+
+read papers:
+- https://sci-hub.se/
+- https://eprint.iacr.org/ (crypto)
