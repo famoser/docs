@@ -1,6 +1,7 @@
 # Communicate
 
-if many questions open, try to arrange a call instead.
+Use most direct form of communication available.  
+Especially if many questions open, try to arrange a call instead.
 
 ## E-Mails
 
@@ -28,3 +29,9 @@ ensure the moment is right (if in doubt, ask).
 
 make it look stunning.
 send drafts to target audience to involve them in specification.
+
+
+
+
+
+most from https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/

@@ -57,7 +57,6 @@ stichwortsalat
 je grösser desto gehemmter  
 jede & jeder für sich  
 breakouts  
-munterrichtsmethoden digital  
 
 ## mögliche arbeitsformen im online-seminar
 
