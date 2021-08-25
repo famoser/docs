@@ -1,0 +1,134 @@
+# never split the difference
+
+## communicate actively
+
+especially important for person in weaker position  
+
+understand
+
+- listen intensively  
+- show empathy and sincere desire to understand  
+- validate emotions by acknowledging it ("it sounds like")  
+- repeat last 3 words / main points to signal understanding  
+
+explain
+
+- "stop me at any time you feel it is unfair"  
+
+trigger no's
+
+- helps to feel in control  
+- "is now a bad time to talk"  
+- "have you given up on the project"  
+
+## negotiation preparation
+
+leverage
+
+- positive (something they want)  
+- negative (can make them suffer; loss aversion makes this more powerful)  
+- normative (where other partie's values conflict)  
+
+reflect
+
+- choice of words  
+- choice of clothes  
+- beliefs & ideas  
+
+negotiation one-sheet
+
+- set optimistic but realistic goal, discuss with others & write it down  
+- summarize known facts that lead up to the negotation  
+- also include non-cash offers  
+
+## get information
+
+perform accusation audit  
+
+interesting information
+
+- who do they report to  
+- what is their audience (team / environment)  
+- what signifies status / reputation  
+- what most worries them  
+- what are their (personal) dreams  
+
+calibrated questions
+
+- to reveal interests & overcome deal killers  
+- what makes you ask  
+- what about the deal is important to you  
+- how can I make this better for us  
+- how would you like me to proceed  
+- how can we solve the problem  
+- how will we know we are on track  
+- how do we address things if we find we are off track  
+
+accusation audit
+
+- confirm suspicions  
+- like "it seems like ... is valuable to you"  
+
+ungarded moments
+
+- observe behaviour when felt unobserved  
+- like before / after meetings, interruptions, ...  
+
+## price negotiations
+
+accusation audit
+
+- "You are going to be insulted by my offer"  
+- "I am embarrassed to tell you my offer"  
+- "You are going to think I have not done my homework"  
+
+anchoring (unfair)
+
+- give extreme anchor to set the stage  
+- compare with similar deals in high range  
+
+anchoring (fair)
+
+- use precise calculated (eg non-round) numbers  
+- let other suggest first (might be higher than what was hoped for)  
+- add non-monetary things  
+
+deflect anchor
+
+- answer with own unreasonable anchor  
+- restart from principles ("what are we trying to accomplish")  
+- non-monetary ("what else can you offer to make this a good deal")  
+
+decrease offer
+
+- in decreasing steps, like 65% -> 85% -> 95% -> 100%  
+- add non-monetary offer at limit  
+
+use own name
+
+- what is the florian's discount?  
+
+## stuck negotiations
+
+getting a no
+
+- what about this does not work for you  
+- what do you need to make it work  
+
+reason for unrealistic expectations
+
+- ill-informed  
+- constrained  
+- hidden interests  
+
+loss/risk aversion
+
+- clarify what is lost when deal is not striken  
+- imaginary (profits) or real (turn off installation)  
+
+rejection
+
+- "thank you for taking the time to talk to me"  
+- "that is more than fair"  
+- "but just does not work for me / I cannot do that"  
+
