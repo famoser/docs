@@ -5,7 +5,8 @@
 interests based discussion
 keep reflecting if own behaviour still represents interests
 
-avoid fools choice
+avoid fools choice:
+
 - winning vs loosing, peace vs honesty
 - combine wants and not-wants to get true interest to pursue
 

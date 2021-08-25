@@ -1,5 +1,24 @@
 # Cooking
 
+## Short
+
+pasta sauce:
+
+- mascarpone
+- gorgonzola
+- alio e olio
+- pelati (wenig flüssigkeit), öl, ital. gewürz, süsse
+- creme fresh, peterli, schnittlauch
+- tomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen (nicht kochen)
+- pesto
+
+beilage:
+
+- frische pasta
+- gnocci
+
+## Long
+
 risotto:
 
 - zwiebeln, öl
@@ -32,11 +51,11 @@ curry:
 
 wähe:
 
+- kuchenteig, zwiebeln
 - 2 eier = 1 dl milch
 - pilze, lauch
 - oder 200g rüebli, gruyere
 - oder käsemischung
-- kuchenteig, zwiebeln
 
 käseschnitte/toast hawaii:
 
@@ -55,33 +74,16 @@ pasta rahmig:
 - pilze, spinat, lauch
 - nüsse, scharf
 
-pasta quick:
-
-- mascarpone
-- gorgonzola
-- alio e olio
-- pelati (wenig flüssigkeit), öl, ital. gewürz, süsse
-
-pasta auflauf:
-
-- 1 ei = 1 dl rahm
-- käse, pilze, zwiebeln
-
-pasta frisch:
-
-- tomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen
-- creme fresh, peterli, schnittlauch
-- frische pasta
-
-spätzli auflauf:
-
-- 2 eier = 2.5 dl rahm
-- mit raclette käse überbacken
+auflauf:
+- pasta, 1 ei = 1 dl rahm, käse, pilze, zwiebeln
+- spätzli, 2 eier = 2.5 dl rahm, raclette überbacken
 
 shashuka:
-- pelati, peperoni
-- kümmel, zwiebel, knoblauch, zimt, koriander, petersilie
-- zerbröselter feta, ei pro person
+
+- zwiebel, knoblauch, pelati, peperoni, (aubergine, zuccetti)
+- zimt, koriander, petersilie, garam masala
+- zerbröselter feta, halloumi
+- mit ei überbacken 200° 10min
 
 kartoffelgratin:
 
@@ -105,7 +107,14 @@ poke bowl:
 - gewürz (sesam, chili, schnittlauch)
 
 fried rice:
+
 - reis in öl anbraten, herausnehmen
 - eier (sesamöl, gewürzt) stocken lassen, herausnehmen
 - chinakohl, pilze, paprika, aubergine (sesamöl, sojasauce, reisessig) anbraten
 - alles zusammengeben & mischen
+
+stir & fried:
+
+- frühlingszwiebeln, ei, milch, sesamöl stocken; herausnehmen
+- paprika, aubergine, zuccetti, ... anbraten
+- ei dazugeben, mit sojasauce würzen

@@ -3,3 +3,6 @@ theme:
   name: 'readthedocs'
 
 extra_css: ["css/typography.css"]
+
+markdown_extensions:
+  - sane_lists
