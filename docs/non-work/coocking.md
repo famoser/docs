@@ -2,7 +2,7 @@
 
 ## Short
 
-pasta sauce:
+pasta / frische pasta:
 
 - mascarpone
 - gorgonzola
@@ -12,10 +12,18 @@ pasta sauce:
 - tomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen (nicht kochen)
 - pesto
 
-beilage:
+gnocci:
 
-- frische pasta
-- gnocci
+- pesto
+- zwiebeln, oliven, trokene tomaten, chili, wenig mit frischen tomaten anbraten
+
+knöpfli:
+
+- raclettekäse
+
+spätzli:
+
+- rübeli, zwiebeln, gryere, rahm, petersilie
 
 ## Long
 
