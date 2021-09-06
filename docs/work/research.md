@@ -14,7 +14,15 @@ reference managers:
 find papers:
 - https://www.webofscience.com/
 - https://scholar.google.com/
+- https://arxiv.org/ (to download/find similar papers)
+- https://app.litmaps.co/ (network graph)
+- https://www.semanticscholar.org/
 
 read papers:
 - https://sci-hub.se/
 - https://eprint.iacr.org/ (crypto)
+
+law:
+- legalis.ch (kommentare, rechtssuche)
+- swisslex.ch (legalis + mehr zeitschriften)
+- weblaw.ch (legale suchmachine)
