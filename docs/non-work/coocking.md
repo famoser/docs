@@ -109,10 +109,10 @@ dal:
 poke bowl:
 
 - jasminreis als grundlage
-- frisch (gurken, sojabohnen)
+- frisch (gurken, sojabohnen, sojabohnen)
 - süss (mango, avocado, ananas)
-- beilage (tofu zB in ingwer/limette marinade, fleischersatz)
-- gewürz (sesam, chili, schnittlauch)
+- beilage (tofu mit geschmak, fleischersatz)
+- gewürz (sesam, chili, schnittlauch, erdnusspaste, eingelegte ingwer, sojasauce)
 
 fried rice:
 
