@@ -126,3 +126,10 @@ stir & fried:
 - frühlingszwiebeln, ei, milch, sesamöl stocken; herausnehmen
 - paprika, aubergine, zuccetti, ... anbraten
 - ei dazugeben, mit sojasauce würzen
+
+
+zutaten
+===
+
+https://imkerei.ch für met  
+https://www.delinat.com/ für normale weine
