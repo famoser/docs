@@ -6,6 +6,7 @@ resources:
 
 - https://sourcemaking.com/ for patterns
 - https://neverworkintheory.org/2021/08/29/software-development-waste.html for different ways of inefficient workflows
+- https://refactoring.guru/refactoring/smells for different sources of smells
 
 ## Builder
 
