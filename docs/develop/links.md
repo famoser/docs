@@ -49,6 +49,7 @@ visualizations:
 resources:
 
 - http://www.phptherightway.com/
+- https://bulletproofphp.dev/yes-php-is-worth-using
 
 frameworks:
 
