@@ -26,3 +26,6 @@ law:
 - legalis.ch (kommentare, rechtssuche)
 - swisslex.ch (legalis + mehr zeitschriften)
 - weblaw.ch (legale suchmachine)
+
+specific topics pop-science:
+- https://apenwarr.ca/log/20211117 (blockchain)
