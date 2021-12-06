@@ -82,6 +82,7 @@ templates:
 
 - https://carrd.co/ for landing pages
 - https://html5up.net for landing pages
+- https://inovatik.com/ for landing pages
 - http://blacktie.co/
 - https://www.styleshout.com/
 - https://templated.co/
