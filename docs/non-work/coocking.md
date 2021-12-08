@@ -7,9 +7,10 @@ pasta / frische pasta:
 - mascarpone
 - gorgonzola
 - alio e olio
-- pelati (wenig flüssigkeit), öl, ital. gewürz, süsse
+- pelati (wenig flüssigkeit), öl, ital. gewürz, wein
+- meatballs
 - creme fresh, peterli, schnittlauch
-- tomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen (nicht kochen)
+- würfeltomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen (nicht kochen)
 - pesto
 
 gnocci:
