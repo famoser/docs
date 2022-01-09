@@ -134,3 +134,9 @@ zutaten
 
 https://imkerei.ch für met  
 https://www.delinat.com/ für normale weine
+
+neue ideen
+===
+
+[Pizokel](https://fooby.ch/de/rezepte/9130/pizokel-mit-gemuese--buchweizen-spaetzli-?startAuto1=4)  
+[Griess-Gnocci](https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BKXX060801_0058A-40-de)  
