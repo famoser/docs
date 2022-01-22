@@ -18,13 +18,22 @@ gnocci:
 - pesto
 - zwiebeln, oliven, trokene tomaten, chili, wenig mit frischen tomaten anbraten
 
-knöpfli:
+spätzli / knöpfli:
 
 - raclettekäse
-
-spätzli:
-
 - rübeli, zwiebeln, gryere, rahm, petersilie
+
+eier:
+
+- rührei
+- verlorene eier
+
+körnli:
+
+- bulgur / ebly
+- mais
+- couscous
+- quinoa
 
 ## Long
 
@@ -33,9 +42,9 @@ risotto:
 - zwiebeln, öl
 - reis bis heiss
 - ablöschen mit wein
-- nach und nach buillon zugeben (gut bedecken, dann wieder einkochen)
-- geschmark mit pesto/tomatenpaste/cherry oder pilz
-- käse, butter 
+- nach und nach buillon zugeben (hohe hitze, immer wieder einkochen, rühren)
+- geschmak (pesto/tomatenpaste/cherry, pilz, artishoken)
+- cremig mit käse, butter, mascarpone
 
 burger:
 
@@ -52,11 +61,12 @@ frittata:
 curry:
 
 - jasminreis
-- cocosmilch
-- currypaste
-- süss (honig, früchte, ananas)
-- trauben, mango
-- spices (ingner)
+- base (ingwer, zwiebeln, knoblauch)
+- spices (currypaste, tomatenmark, koriander, kümmel, kurkuma, garam masala, zitronengras)
+- kocosmilch
+- haupt (tofu, paneer)
+- gemüse (kartoffeln, wirsig, blumenkohl, aubergine, zuccini, spinat)
+- süss (honig, früchte, ananas, trauben, mango)
 
 wähe:
 
@@ -84,6 +94,7 @@ pasta rahmig:
 - nüsse, scharf
 
 auflauf:
+
 - pasta, 1 ei = 1 dl rahm, käse, pilze, zwiebeln
 - spätzli, 2 eier = 2.5 dl rahm, raclette überbacken
 
@@ -93,6 +104,7 @@ shashuka:
 - zimt, koriander, petersilie, garam masala
 - zerbröselter feta, halloumi
 - mit ei überbacken 200° 10min
+- dazu brot, knoblauchbrot
 
 kartoffelgratin:
 
@@ -128,15 +140,34 @@ stir & fried:
 - paprika, aubergine, zuccetti, ... anbraten
 - ei dazugeben, mit sojasauce würzen
 
+ramen:
 
-zutaten
-===
+- nudeln & pulver
+- geschmack (sojasauce, soja, reisessig, sesamöl) 
+- frisch (lauch, pilz, sprossen)
+
+## Dessert
+
+mascapone / sirup:
+
+- mascarpone, 1/4 yogourt, zitronensaft
+- sirup, schokopulver
+- früchte / sirup / schokostreusel zur dekoration
+
+## Exklusiv
+
+schwarzer reis:
+
+- schwarzer reis
+- in gesalzener kokosmilch kochen; ca 1/4 wasser; ca. 1h 
+
+
+## zutaten
 
 https://imkerei.ch für met  
 https://www.delinat.com/ für normale weine
 
-neue ideen
-===
+## neue ideen
 
 [Pizokel](https://fooby.ch/de/rezepte/9130/pizokel-mit-gemuese--buchweizen-spaetzli-?startAuto1=4)  
 [Griess-Gnocci](https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BKXX060801_0058A-40-de)  
