@@ -64,3 +64,7 @@ collaborate:
 
 - https://hackmd.io
 - https://de.overleaf.com/
+
+fun:
+
+- https://www.spielbude.ch (consider anno domini, ein solches ding)
