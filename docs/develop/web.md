@@ -47,13 +47,12 @@ showcases (practical):
 
 - http://www.webcreme.com/, (typography heavy)
 - https://land-book.com
-- https://uidb.io/
 - https://www.uplabs.com/
 - https://designmunk.com/
 - http://www.goodweb.design/
 - https://httpster.net/
 - https://www.siteinspire.com/
-- http://www.uitemple.com/
+- https://www.glance.fyi/ (browser by categories)
 
 UX:
 
