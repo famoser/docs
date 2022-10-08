@@ -12,6 +12,7 @@ pasta / frische pasta:
 - creme fresh, peterli, schnittlauch
 - würfeltomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen (nicht kochen)
 - pesto
+- carbonara (ei, parmesan, rahm)
 
 gnocci:
 
@@ -63,7 +64,7 @@ curry:
 - jasminreis
 - base (ingwer, zwiebeln, knoblauch)
 - spices (currypaste, tomatenmark, koriander, kümmel, kurkuma, garam masala, zitronengras)
-- kocosmilch
+- kokosmilch
 - haupt (tofu, paneer)
 - gemüse (kartoffeln, wirsig, blumenkohl, aubergine, zuccini, spinat)
 - süss (honig, früchte, ananas, trauben, mango)
@@ -146,6 +147,19 @@ ramen:
 - geschmack (sojasauce, soja, reisessig, sesamöl) 
 - frisch (lauch, pilz, sprossen)
 
+deko:
+
+- ofenei im blätterteig mit pilz, petersilie & etwas käse
+
+## Suppe
+
+mehlsuppe:
+
+- mehl unter stetigen rühren braun braten (100g)
+- mit flüssiger butter ablöschen (50g)
+- buillon (1l) + rotwein
+- mit gruyere und rahm servieren
+
 ## Dessert
 
 mascapone / sirup:
@@ -158,8 +172,8 @@ mascapone / sirup:
 
 schwarzer reis:
 
-- schwarzer reis
-- in gesalzener kokosmilch kochen; ca 1/4 wasser; ca. 1h 
+- schwarzer reis (250g)
+- in gesalzener kokosmilch kochen (500ml) + ca 1/5 ausspülwasser ; ca. 2h 
 
 
 ## zutaten
