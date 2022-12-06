@@ -90,7 +90,7 @@ pasta tomatig:
 
 pasta rahmig:
 
-- zwiebel, mehl, rahm (+rotwein, weisswein)
+- zwiebel, mehl, rahm (+ (50%) rotwein, weisswein)
 - pilze, spinat, lauch
 - nüsse, scharf
 
@@ -144,7 +144,7 @@ stir & fried:
 ramen:
 
 - nudeln & pulver
-- geschmack (sojasauce, soja, reisessig, sesamöl) 
+- geschmack (sojasauce, soja, reisessig, sesamöl, ahornsirup) 
 - frisch (lauch, pilz, sprossen)
 
 deko:
@@ -159,6 +159,11 @@ mehlsuppe:
 - mit flüssiger butter ablöschen (50g)
 - buillon (1l) + rotwein
 - mit gruyere und rahm servieren
+
+maissuppe:
+- 300g potatoes, 1 celery, 150g mais, chili, onion; cook
+- 1 carrot, cook & mix
+- add 150ml cream, butter, 50g mais
 
 ## Dessert
 
@@ -175,7 +180,6 @@ schwarzer reis:
 - schwarzer reis (250g)
 - in gesalzener kokosmilch kochen (500ml) + ca 1/5 ausspülwasser ; ca. 2h 
 
-
 ## zutaten
 
 https://imkerei.ch für met  
@@ -185,3 +189,26 @@ https://www.delinat.com/ für normale weine
 
 [Pizokel](https://fooby.ch/de/rezepte/9130/pizokel-mit-gemuese--buchweizen-spaetzli-?startAuto1=4)  
 [Griess-Gnocci](https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BKXX060801_0058A-40-de)  
+
+## brot
+
+angaben in einheit 100g
+
+weissbrötchen:
+- 1h vorteig 4 weiss, 0.5 dunkel, 2 wasser, 1 milch
+- 4x wendeteig 2g salz, 0.5g trockenhefe
+- 12h kühlzeit
+- 250° / 20min
+
+ciabatta:
+- 10h vorteig 1 weiss, 0.5 dunkel, 1 wasser, 0.3g hefe
+- 30min quellteig 2 weiss, 1.3 wasser
+- 4x wendeteig 2g salz, 0.3g hefe, 5ml olivenöl, 10ml wasser
+- formen & 12h kühlzeit
+- 250° / 25min
+
+baguette:
+- 4x wendeteig, 13g salz, 13g zucker, 4 wasser, 5 weiss, 1 dunkel, 2g hefe
+- 48h kühlzeit
+- formen, 1h wenden, 1h wenden
+- 250° / 20min
