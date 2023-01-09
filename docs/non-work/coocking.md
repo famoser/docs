@@ -82,6 +82,11 @@ käseschnitte/toast hawaii:
 - starker käse (raclette) oder leichter käse + ananas
 - tomate & halbdunkles brot
 
+pasta one-pot:
+- 400g pasta = 1l wasser, 2dl rahm
+- artischoken & dill, caprese, spargeln & rüebli, randen & feta & thymian
+- käse 
+
 pasta tomatig:
 
 - pelati, trockene tomaten, kapern
