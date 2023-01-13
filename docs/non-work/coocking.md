@@ -14,6 +14,10 @@ pasta / frische pasta:
 - pesto
 - carbonara (ei, parmesan, rahm)
 
+(jasmin)reis:
+- 250g reis = 350g wasser
+- salzen, 10min kochen, 15min stehen lassen
+
 gnocci:
 
 - pesto
