@@ -8,11 +8,9 @@ pasta / frische pasta:
 - gorgonzola
 - alio e olio
 - pelati (wenig flüssigkeit), öl, ital. gewürz, wein
-- meatballs
 - creme fresh, peterli, schnittlauch
-- würfeltomaten, wenig zwiebel, knoblauch, basilicum, stehen lassen (nicht kochen)
+- würfeltomaten, wenig zwiebel, knoblauch, basilicum, kühlschrank stehen lassen
 - pesto
-- carbonara (ei, parmesan, rahm)
 
 (jasmin)reis:
 - 250g reis = 350g wasser
@@ -51,6 +49,13 @@ risotto:
 - geschmak (pesto/tomatenpaste/cherry, pilz, artishoken)
 - cremig mit käse, butter, mascarpone
 
+pilzsauce:
+
+- 2/3 grobe pilze rösen in pfanne
+- butter zwiebeln knoblauch dazugeben
+- 1/3 feine pilze dazu, weisswein, rahm
+- salz, pfeffer (optional peterli, buillion)
+
 burger:
 
 - tomaten, salat
@@ -87,6 +92,7 @@ käseschnitte/toast hawaii:
 - tomate & halbdunkles brot
 
 pasta one-pot:
+
 - 400g pasta = 1l wasser, 2dl rahm
 - artischoken & dill, caprese, spargeln & rüebli, randen & feta & thymian
 - käse 
@@ -102,6 +108,12 @@ pasta rahmig:
 - zwiebel, mehl, rahm (+ (50%) rotwein, weisswein)
 - pilze, spinat, lauch
 - nüsse, scharf
+
+carbonara:
+
+- 50/50 pecorino parmesan, salzwasser
+- 1 ganzem ei, 1 eigelb dazugeben
+- mit warmer pasta vermengen 
 
 auflauf:
 
@@ -159,6 +171,7 @@ ramen:
 deko:
 
 - ofenei im blätterteig mit pilz, petersilie & etwas käse
+
 
 ## Suppe
 
