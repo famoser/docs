@@ -206,6 +206,7 @@ schwarzer reis:
 
 https://imkerei.ch für met  
 https://www.delinat.com/ für normale weine
+https://gilliard.ch/de/vins/porte-de-novembre-de/ für süsse weine
 
 ## neue ideen
 
