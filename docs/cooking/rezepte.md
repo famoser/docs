@@ -53,7 +53,6 @@ kartoffelgratin:
 - festkochend, raclette (0.4*kartoffelgewicht), wenig buillon, paprika
 - mehligkochend, rahm = milch (0.4*kartoffelgewicht), muskatnuss, käse
 
-
 deko:
 
 - ofenei im blätterteig mit pilz, petersilie & etwas käse
@@ -88,14 +87,3 @@ schwarzer reis:
 
 - schwarzer reis (250g)
 - in gesalzener kokosmilch kochen (500ml) + ca 1/5 ausspülwasser ; ca. 2h 
-
-## zutaten
-
-https://imkerei.ch für met  
-https://www.delinat.com/ für normale weine
-https://gilliard.ch/de/vins/porte-de-novembre-de/ für süsse weine
-
-## neue ideen
-
-[Pizokel](https://fooby.ch/de/rezepte/9130/pizokel-mit-gemuese--buchweizen-spaetzli-?startAuto1=4)  
-[Griess-Gnocci](https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BKXX060801_0058A-40-de)  

@@ -4,7 +4,7 @@
 
 ### one-pot (pasta)
 
-grundrezept one-pot:
+grundrezept:
 
 - 400g pasta = 1l wasser
 - deckel zu bis fast al dente
