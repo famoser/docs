@@ -20,6 +20,7 @@ Music:
 - https://emmitfenn.com music with visuals combined
 - https://radioparadise.com/ for DJ music
 - https://tidal.com/ for streaming
+- https://everynoise.com/ to discover music genres
 
 Draw:
 
