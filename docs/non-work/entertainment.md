@@ -29,3 +29,8 @@ Draw:
 Exercise::
 
 - https://musclewiki.com
+
+Art:
+
+- https://www.nivrozenberg.com/fineart#/summit/
+- https://www.patrikfuchs.com/10065593/isolatoren
