@@ -2,6 +2,8 @@
 
 angaben in einheit 100g
 
+bei plötz 1.5mal so viel salz verwenden.
+
 weissbrötchen:
 
 - 1h vorteig 4 weiss, 0.5 dunkel, 2 wasser, 1 milch
