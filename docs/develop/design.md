@@ -77,6 +77,7 @@ UI designs:
 - https://www.awwwards.com/ for daily awarded web design
 - http://beautifulopen.com/
 - https://www.refactoringui.com/
+- https://rauno.me/craft for tricks creating awesome designs
 
 templates:
 
