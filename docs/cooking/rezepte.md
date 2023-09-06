@@ -57,6 +57,17 @@ deko:
 
 - ofenei im blätterteig mit pilz, petersilie & etwas käse
 
+pizza:
+- pelati/öl/kräuter für sauce
+- mehl/weizenkleie/salz/backpulver für teig
+- kleine mozarellas/tomme, rucola als deco 
+- 4 formaggi (ziegenkäse, gorgonzola, mascarpone)
+- gemüse (pilz/zuccetti/peperoni andünsten, oliven)
+- spinat/feta o. ziegenkäse
+- creme fresh (mit safran) und getrocknete tomaten, steinpilze, zwiebeln
+- feigen / honig
+- vuna
+
 
 ## Suppe
 
