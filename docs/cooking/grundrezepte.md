@@ -67,6 +67,7 @@ geschmack:
 - 200g rüebli, gruyere
 - käsemischung
 - rhabarber & mandeln
+- mais + pakchoi
 
 
 ### auflauf
