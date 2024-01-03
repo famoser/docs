@@ -51,7 +51,7 @@ grundrezept:
 varianten:
 
 - pesto, tomatenpaste & cherrytomaten
-- pilz
+- pilze
 - artischoken & dill
 - spargeln
 
@@ -65,10 +65,10 @@ geschmack:
 
 - pilze, lauch
 - 200g rüebli, gruyere
-- käsemischung
+- käsemischung / fondue
 - rhabarber & mandeln
 - mais + pakchoi
-
+- brokkoli
 
 ### auflauf
 
@@ -214,7 +214,7 @@ grundrezept:
 
 ### curry
 
-- jasminreis
+- basmatireis
 - base (ingwer, zwiebeln, knoblauch)
 - spices (currypaste, tomatenmark, koriander, kümmel, kurkuma, garam masala, zitronengras)
 - kokosmilch
