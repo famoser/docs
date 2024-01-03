@@ -8,6 +8,8 @@
 
 ![Music theory cheat sheet](music_theory_cheat_sheet.jpg "Music theory cheat sheet")
 
+Create sheets: https://www.hacklily.org/
+
 ## lyrics
 
 ### Jesus gjor meg stille
