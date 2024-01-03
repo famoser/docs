@@ -23,6 +23,11 @@ pilzsauce:
 - 1/3 feine pilze dazu, weisswein, rahm
 - salz, pfeffer (optional peterli, buillion)
 
+mehlsuppe (2pers oder vorspeise 4pers):
+- 100g mehl braun rösten (bisschen verbrannt ok)
+- 50g butter, 1l wasser, wenig rotwein
+- einkochen, mit gruyère servieren
+
 frittata:
 
 - paprica / zuccini / auergine dünsten
