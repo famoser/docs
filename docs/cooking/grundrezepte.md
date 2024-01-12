@@ -16,6 +16,8 @@ trivial:
 - gorgonzola
 - alio e olio
 - pesto
+- cacio e pepe (manchego oder 50/50 parmesan/pecorino, mit stärkewasser)
+- butter & parmesan (1:3 butter parmesan, mit stärkewasser)
 
 tomatig:
 
