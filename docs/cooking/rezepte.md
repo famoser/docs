@@ -48,9 +48,9 @@ carbonara:
 shashuka:
 
 - zwiebel, knoblauch, pelati, peperoni, (aubergine, zuccetti)
-- zimt, koriander, petersilie, garam masala
-- zerbröselter feta, halloumi
-- mit ei überbacken 200° 10min
+- zimt, koriander, petersilie, garam masala (cumin, paprika)
+- zerbröselter feta, halloumi, streichkäse
+- mit ei überbacken 200° 10min, oder eingerührt
 - dazu brot, knoblauchbrot
 
 kartoffelgratin:
