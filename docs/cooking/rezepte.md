@@ -1,19 +1,5 @@
 # Rezepte
 
-## zutaten
-
-eier:
-
-- rührei
-- verlorene eier
-
-körnli:
-
-- bulgur / ebly
-- mais
-- couscous
-- quinoa
-
 ## Long
 
 pilzsauce:
@@ -24,6 +10,7 @@ pilzsauce:
 - salz, pfeffer (optional peterli, buillion)
 
 mehlsuppe (2pers oder vorspeise 4pers):
+
 - 100g mehl braun rösten (bisschen verbrannt ok)
 - 50g butter, 1l wasser, wenig rotwein
 - einkochen, mit gruyère servieren
@@ -63,6 +50,7 @@ deko:
 - ofenei im blätterteig mit pilz, petersilie & etwas käse
 
 pizza:
+
 - pelati/öl/kräuter für sauce
 - mehl/weizenkleie/salz/backpulver für teig
 - kleine mozarellas/tomme, rucola als deco 
@@ -89,6 +77,7 @@ maissuppe:
 - 1 carrot, cook & mix
 - add 150ml cream, butter, 50g mais
 
+
 ## Dessert
 
 mascapone / sirup:
@@ -96,6 +85,7 @@ mascapone / sirup:
 - mascarpone, 1/4 yogourt, zitronensaft
 - sirup, schokopulver
 - früchte / sirup / schokostreusel zur dekoration
+
 
 ## Exklusiv
 
