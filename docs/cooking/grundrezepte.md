@@ -71,6 +71,8 @@ geschmack:
 - rhabarber & mandeln
 - mais + pakchoi
 - brokkoli
+- schafskäse, spinat, honig
+
 
 ### auflauf
 
@@ -103,7 +105,13 @@ varianten:
 - beyond meat, migros fakes
 
 
-### pre-processed
+### hauptzutat
+
+eier:
+
+- rührei
+- verlorene eier
+- omelette
 
 gnocci:
 
@@ -114,6 +122,13 @@ spätzli / knöpfli:
 
 - raclettekäse
 - rübeli, zwiebeln, grüyere, rahm, petersilie
+
+andere körnli:
+
+- bulgur / ebly
+- mais
+- couscous
+- quinoa
 
 
 ## Asia
@@ -129,6 +144,7 @@ geschmäker:
 ### stir & fried
 
 (jasmin)reis:
+
 - 250g reis = 350g wasser
 - salzen, 10min kochen, 15min stehen lassen
 
