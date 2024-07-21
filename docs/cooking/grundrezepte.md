@@ -105,7 +105,7 @@ varianten:
 - beyond meat, migros fakes
 
 
-### hauptzutat
+### varia
 
 eier:
 
@@ -130,6 +130,12 @@ andere körnli:
 - couscous
 - quinoa
 
+sommer-salate:
+
+- caprese
+- feta, wassermelone, minze
+- tsatziki (grechisches yogurt, knoblauch, geraffelte gurken)
+- 
 
 ## Asia
 
