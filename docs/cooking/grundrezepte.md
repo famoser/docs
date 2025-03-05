@@ -38,7 +38,7 @@ rahmig:
 - creme fresh, peterli, schnittlauch
 - pilze, spinat, lauch
 - nüsse, scharf
-
+- älpler: kartoffeln (50/50 zu pasta), hartkäse, rahm
 
 ### risotto
 
