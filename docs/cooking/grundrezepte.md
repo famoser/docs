@@ -104,6 +104,13 @@ varianten:
 - schafskäse, randen
 - beyond meat, migros fakes
 
+### fajita
+
+grundzutaten:
+
+- fajita
+- salat
+- yogourt
 
 ### varia
 
@@ -135,7 +142,7 @@ sommer-salate:
 - caprese
 - feta, wassermelone, minze
 - tsatziki (grechisches yogurt, knoblauch, geraffelte gurken)
-- 
+
 
 ## Asia
 
