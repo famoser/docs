@@ -61,6 +61,10 @@ pizza:
 - feigen / honig
 - vuna
 
+ideas:
+- älplermacaronen
+- mehlsuppe
+
 
 ## Suppe
 
